@@ -8,11 +8,11 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Blue Ham
+title : Página web Enrique García
 author :
-  name : Marisa Carlos
+  name : Enrique García Trinidad
   email : mbc96@cornell.edu
-  github : mbcarlos
+  github : enriGarcia
   twitter : MarisaBriCarlos
 
 production_url : http://marisabriana.github.io
