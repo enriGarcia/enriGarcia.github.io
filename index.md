@@ -6,10 +6,26 @@ keywords: Blue, Ham, treats, recycling, mail, being a good boy
 ---
 
 ## Trabajo actual
-Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+Planeación de trayectorias para robots manipuladores industriales:
+- Perfil geométrico con evasión de obstáculos
+- Pefil de velocidad quíntico estacionario
+- Simulación en ROS
 
 ## Intereses de investigación
-Aprendizaje
+-  Aprendizaje automático (regresión lineal, regresión logística, vecinos K-cercanos, árboles de decisión, máquinas de vectores de soporte, redes neuronales artificiales de propagación hacia atrás)
+
+## Intereses técnicos
+- Python (Numpy, Scipy, Scikit-learn, TensorFlow)
+- LabVIEW
+
+## Educación
+- Doctor en Ingeniería de Sistemas Robóticos y Mecatrónicos, Instituto Politécnico Nacional, México.
+
+## Otros
+- Candidato al Sistema Nacional de Investigadores.
+- Miembro de la IEEE Robotics and Automation Society.  
+- Miembro de la IEEE Computational Intelligence Society.
+- Reconocimieto PRODEP.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
