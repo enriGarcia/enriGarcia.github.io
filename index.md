@@ -43,9 +43,9 @@ Planeación de trayectorias para robots manipuladores industriales:
         </div>
 
         <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+        <a href="../assets/enrique.jpg">
+            <img src="../assets/enrique.jpg"
+                  title="Enrique García" /></a>
         </div>
     </div>
 </div>
