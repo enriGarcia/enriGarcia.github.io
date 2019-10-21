@@ -5,13 +5,13 @@ description: Enrique García es Profesor - Investigador en el Tecnológico de Es
 keywords: Blue, Ham, treats, recycling, mail, being a good boy
 ---
 
-## Trabajo actual
+### Trabajo actual
 Planeación de trayectorias para robots manipuladores industriales:
 - Perfil geométrico con evasión de obstáculos
 - Pefil de velocidad quíntico estacionario
 - Simulación en ROS
 
-## Intereses de investigación
+### Intereses de investigación
 -  Aprendizaje automático (regresión lineal, regresión logística, vecinos K-cercanos, árboles de decisión, máquinas de vectores de soporte, redes neuronales artificiales de propagación hacia atrás)
 
 ## Intereses técnicos
