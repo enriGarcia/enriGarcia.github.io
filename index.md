@@ -34,7 +34,7 @@ Planeación de trayectorias para robots manipuladores:
 
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="contact"></a>Contacto</h4>
 
     <div class="row-fluid">
         <div class="span5">
