@@ -13,6 +13,28 @@ Tarea 2
 Tarea 3
 [Descargar]({{ BASE_PATH}}/pages/assignments/hw_03_calcDif.pdf)
 
+#### <u>Control lógico avanzado</u>
+Tarea 1
+[Descargar]({{ BASE_PATH}}/pages/assignments/hw_01_uc.pdf)
+
+Tarea 2
+[Descargar]({{ BASE_PATH}}/pages/assignments/hw_02_uc.pdf)
+
+Tarea 3
+[Descargar]({{ BASE_PATH}}/pages/assignments/hw_03_uc.pdf)
+
+Tarea 4
+[Descargar]({{ BASE_PATH}}/pages/assignments/hw_04_uc.pdf)
+
+Tarea 5
+[Descargar]({{ BASE_PATH}}/pages/assignments/hw_05_uc.pdf)
+
+Tarea 6
+[Descargar]({{ BASE_PATH}}/pages/assignments/hw_06_uc.pdf)
+
+Tarea 7
+[Descargar]({{ BASE_PATH}}/pages/assignments/hw_07_uc.pdf)
+
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
 <!--
