@@ -9,6 +9,7 @@ description: Asignaturas presentes
 #### <u>Cálculo diferencial</u>
 Tarea 2
 [Descargar]({{ BASE_PATH}}/pages/assignments/hw_02_calcDif.pdf)
+
 Tarea 3
 [Descargar]({{ BASE_PATH}}/pages/assignments/hw_03_calcDif.pdf)
 
