@@ -5,6 +5,12 @@ description: Asignaturas presentes
 ---
 
 
+#### <u>Métodos numéricos</u>
+Conjunto de datos 1
+[Descargar]({{ BASE_PATH}}/pages/ml/data_1d.csv)
+
+Conjunto de datos 2
+[Descargar]({{ BASE_PATH}}/pages/ml/data_2d.csv)
 
 #### <u>Cálculo diferencial</u>
 Tarea 2
