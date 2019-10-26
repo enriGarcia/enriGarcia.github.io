@@ -4,6 +4,18 @@ title: Docencia
 description: Asignaturas presentes
 ---
 
+<div class="navbar">
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="#metnum">Métodos numéricos</a></li>
+            <li><a href="#calcdif">Cálculo diferencial</a></li>
+            <li><a href="#progav">Programación avanzada</a></li>
+            <li><a href="#ctrllog">Control lógico avanzado</a></li>
+        </ul>
+    </div>
+</div>
+
+### <a name="metnum"></a>Métodos numéricos
 
 #### <u>Métodos numéricos</u>
 Conjunto de datos 1
@@ -12,12 +24,24 @@ Conjunto de datos 1
 Conjunto de datos 2
 [Descargar]({{ BASE_PATH}}/pages/ml/data_2d.csv)
 
+
+
+### <a name="calcdif"></a>Cálculo diferencial
+
 #### <u>Cálculo diferencial</u>
 Tarea 2
 [Descargar]({{ BASE_PATH}}/pages/assignments/hw_02_calcDif.pdf)
 
 Tarea 3
 [Descargar]({{ BASE_PATH}}/pages/assignments/hw_03_calcDif.pdf)
+
+
+
+### <a name="progav"></a>Programación avanzada
+Aún sin datos
+
+
+### <a name="ctrllog"></a>Control lógico avanzado
 
 #### <u>Control lógico avanzado</u>
 Tarea 1
