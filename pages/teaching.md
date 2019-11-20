@@ -29,12 +29,14 @@ Conjunto de datos 2
 ### <a name="calcdif"></a>Cálculo diferencial
 
 #### <u>Cálculo diferencial</u>
-Tarea 2
+Tarea 3
 [Descargar]({{ BASE_PATH}}/pages/assignments/hw_02_calcDif.pdf)
 
-Tarea 3
+Tarea 4
 [Descargar]({{ BASE_PATH}}/pages/assignments/hw_03_calcDif.pdf)
 
+Tarea 5
+[Descargar]({{ BASE_PATH}}/pages/assignments/hw_05_calcDif.pdf)
 
 
 ### <a name="progav"></a>Programación avanzada
