@@ -7,6 +7,7 @@ description: Asignaturas presentes
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
+            <li><a href="#matIng2">Matemáticas para Ingeniería II</a></li>
             <li><a href="#metnum">Métodos numéricos</a></li>
             <li><a href="#calcdif">Cálculo diferencial</a></li>
             <li><a href="#progav">Programación avanzada</a></li>
@@ -14,6 +15,12 @@ description: Asignaturas presentes
         </ul>
     </div>
 </div>
+
+### <a name="matIng2"></a>Matemáticas para Ingeniería II
+
+#### <u>Matemáticas para Ingeniería II</u>
+Tarea 01
+[Descargar]({{ BASE_PATH}}/pages/assignments/hw_01_ecsDif.pdf)
 
 ### <a name="metnum"></a>Métodos numéricos
 
@@ -23,7 +30,6 @@ Conjunto de datos 1
 
 Conjunto de datos 2
 [Descargar]({{ BASE_PATH}}/pages/ml/data_2d.csv)
-
 
 
 ### <a name="calcdif"></a>Cálculo diferencial
