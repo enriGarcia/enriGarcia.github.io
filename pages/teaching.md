@@ -18,7 +18,7 @@ description: Asignaturas presentes
 
 ### <a name="matIng2"></a>Matemáticas para Ingeniería II
 
-#### <u>Matemáticas para Ingeniería II</u>
+#### <u>Tareas</u>
 Tarea 01
 [Descargar]({{ BASE_PATH}}/pages/assignments/hw_01_ecsDif.pdf)
 
