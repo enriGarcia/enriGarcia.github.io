@@ -22,6 +22,9 @@ description: Asignaturas presentes
 Tarea 01
 [Descargar]({{ BASE_PATH}}/pages/assignments/hw_01_ecsDif.pdf)
 
+Tarea 02
+[Descargar]({{ BASE_PATH}}/pages/assignments/hw_02_ecsDif.pdf)
+
 ### <a name="metnum"></a>Métodos numéricos
 
 #### <u>Métodos numéricos</u>
