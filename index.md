@@ -2,7 +2,7 @@
 layout: frontpage
 title: Enrique García
 description: Enrique García es Profesor - Investigador en el Tecnológico de Estudios Superiores de Huixquilucan.
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+keywords: Enrique, García, Trinidad, UTFV, TESH, robótica, machine, learning
 ---
 
 ### Trabajo actual
