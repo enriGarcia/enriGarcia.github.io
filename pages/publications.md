@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-description: Enrique Garcia-Trinidad research
+title: Publications
+description: Enrique Garcia-Trinidad publications
 ---
 
 
