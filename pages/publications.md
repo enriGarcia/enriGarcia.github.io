@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Publicaciones
 description: Enrique Garcia-Trinidad publications
 ---
 
