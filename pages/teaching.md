@@ -25,6 +25,9 @@ Tarea 01
 Tarea 02
 [Descargar]({{ BASE_PATH}}/pages/assignments/hw_02_ecsDif.pdf)
 
+Tarea de nivelación 1
+[Descargar]({{ BASE_PATH}}/pages/assignments/hw_sp1_ecsDif.pdf)
+
 ### <a name="metnum"></a>Métodos numéricos
 
 #### <u>Métodos numéricos</u>
