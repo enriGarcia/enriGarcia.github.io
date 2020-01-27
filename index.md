@@ -5,6 +5,15 @@ description: Enrique García es Profesor - Investigador en el Tecnológico de Es
 keywords: Enrique, García, Trinidad, UTFV, TESH, robótica, machine, learning
 ---
 
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="https://scholar.google.com/citations?user=l7jVmF8AAAAJ&hl=es">Google Académico</a></li>
+          <li><a href="https://github.com/enriGarcia">GitHub</a></li>
+      </ul>
+  </div>
+</div>
+
 ### Trabajo actual
 Planeación de trayectorias para robots manipuladores:
 - Perfil geométrico con evasión de obstáculos
@@ -31,9 +40,6 @@ Planeación de trayectorias para robots manipuladores:
 
 
 ---
-
-
-<div class="container">
 <h4><a name="contact"></a>Contacto</h4>
 
     <div class="row-fluid">
@@ -48,13 +54,4 @@ Planeación de trayectorias para robots manipuladores:
                   title="Enrique García" /></a>
         </div>
     </div>
-</div>
-
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/enriGarcia">GitHub</a></li>
-      </ul>
-  </div>
 </div>
