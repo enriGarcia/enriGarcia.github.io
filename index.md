@@ -14,4 +14,4 @@ keywords: Enrique, García, Trinidad, UTFV, TESH, robótica, machine, learning
   </div>
 </div>
 
-![] ({{BASE_PATH}}/assets/background.jpg)
+![Robots]({{BASE_PATH}}/assets/background.jpg)
