@@ -4,7 +4,8 @@ title: Instalación de Anaconda Python en Windows
 description: Instalación de Python 3
 ---
 > Este tutorial es para usuarios de Windows.
-> Por Félix Rivera Gil
+
+> Por [Félix Rivera Gil](https://github.com/FelixGil55). 
 
 ### *Índice*
 - [¿Qué es Anaconda?](#qué-es-anaconda)
@@ -23,7 +24,7 @@ Anaconda Distribution es una herramienta que nos brinda una gran cantidad de fun
 ## *Descargar Anaconda*
 *[Volver al Índice](#índice).*
  
-Para comenzar con la descarga de Anaconda primero nos dirigimos a la Home de Anaconda, para ello solo debe dar clic en el siguiente enlace: (https://www.anaconda.com) y se abrirá una nueva ventana como la siguiente:
+Para comenzar con la descarga de Anaconda primero nos dirigimos a la Home de Anaconda, para ello solo debe dar clic en el siguiente enlace: [https://www.anaconda.com](https://www.anaconda.com/distribution) y se abrirá una nueva ventana como la siguiente:
 
 ![Anaconda image](https://raw.githubusercontent.com/FelixGil55/Python-Anaconda/master/Anaconda%20Images/1Home%20de%20Anaconda.png)
 
