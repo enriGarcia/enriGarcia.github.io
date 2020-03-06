@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Tutoriales
-description: Tutoriales de Enrique Garcia-Trinidad
+title: Instalación de Python
+description: Instalación de Python 3
 ---
 
-- [Instalación de Anaconda Python en Windows](https://enriquegarcia.xyz/pages/instructions/installPython)
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
