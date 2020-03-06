@@ -29,8 +29,7 @@ Para comenzar con la descarga de Anaconda primero nos dirigimos a la Home de Ana
 
 Una vez dentro iremos a la opción Download (descargas):
 
-
-![Anaconda image](https://github.com/FelixGil55/Python-Anaconda/blob/master/Anaconda%20Images/2Home%20de%20Anaconda%20download.png)
+![Anaconda image](https://raw.githubusercontent.com/FelixGil55/Python-Anaconda/master/Anaconda%20Images/2Home%20de%20Anaconda%20download.png)
 
 Aquí elegimos nuestra plataforma: Windows, Mac o Linux (en este caso se seleccionará Windows), para ello solo baje un poco en la ventana y asegúrese que ha elegido la opción correcta (Windows), después en "Python 3.7 version" de clic en "Download", seleccionando la versión que más le convenga (64 Bit o 32 Bit).
 
