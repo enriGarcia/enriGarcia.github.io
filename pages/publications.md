@@ -6,6 +6,10 @@ description: Enrique Garcia-Trinidad publications
 
 
 
+#### <u>Novel nonlinear hypothesis for the Delta Parallel Robot modeling</u>
+*In previous investigations, the nonlinear hypothesis use the linear bounded maps. Nonlinear hypothesis are described as the combination of the first order terms, and after of the mentioned combination, one bounded map is applied to alter the result. This document proposes two nonlinear hypothesis which use different structures instead of using the linear bounded maps. They are termed as novel nonlinear hypothesis and second order nonlinear hypothesis and their goal is to improve the second order processes modeling. The proposed nonlinear hypothesis are described as the combination of the first order and second order terms. Since the delta parallel robot is a second order process, it is an excellent platform to prove the effectiveness of the two proposed hypothesis.*
+[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/papers/aquino2020.pdf)
+
 #### <u>Trajectory tracking of the robot end effector for the minimally invasive surgeries</u>
 *The surgery technology has been highly investigated, with the purpose to reach an efficient way of working in medicine. Consequently, robots with small tools have been incorporated in many kind of surgeries to reach the following improvements: the patient gets a faster recovery, the surgery is not invasive, and the robot can access to the body occult parts. In this article, an adaptive strategy for the trajectory tracking of the robot end effector is addressed; it consists of a proportional derivative technique plus an adaptive compensation. The proportional derivative technique is employed to reach the trajectory tracking. The adaptive compensation is employed to reach approximation of some unknown dynamics. The robot described in this study is employed in minimally invasive surgeries.*
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/papers/rubio2020.pdf)
