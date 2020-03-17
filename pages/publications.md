@@ -6,6 +6,10 @@ description: Enrique Garcia-Trinidad publications
 
 
 
+#### <u>Hessian with Mini-Bathces for Electrical Demand Prediction</u>
+*The steepest descent method is frequently used for neural network tuning. Mini-batches are commonly used to get better tuning of the steepest descent in the neural network. Nevertheless, steepest descent with mini-batches could be delayed in reaching a minimum. The Hessian could be quicker than the steepest descent in reaching a minimum, and it is easier to achieve this goal by using the Hessian with mini-batches. In this article, the Hessian is combined with mini-batches for neural network tuning. The discussed algorithm is applied for electrical demand prediction.*
+[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/papers/elias2020.pdf)
+
 #### <u>Novel nonlinear hypothesis for the Delta Parallel Robot modeling</u>
 *In previous investigations, the nonlinear hypothesis use the linear bounded maps. Nonlinear hypothesis are described as the combination of the first order terms, and after of the mentioned combination, one bounded map is applied to alter the result. This document proposes two nonlinear hypothesis which use different structures instead of using the linear bounded maps. They are termed as novel nonlinear hypothesis and second order nonlinear hypothesis and their goal is to improve the second order processes modeling. The proposed nonlinear hypothesis are described as the combination of the first order and second order terms. Since the delta parallel robot is a second order process, it is an excellent platform to prove the effectiveness of the two proposed hypothesis.*
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/papers/aquino2020.pdf)
@@ -13,6 +17,10 @@ description: Enrique Garcia-Trinidad publications
 #### <u>Trajectory tracking of the robot end effector for the minimally invasive surgeries</u>
 *The surgery technology has been highly investigated, with the purpose to reach an efficient way of working in medicine. Consequently, robots with small tools have been incorporated in many kind of surgeries to reach the following improvements: the patient gets a faster recovery, the surgery is not invasive, and the robot can access to the body occult parts. In this article, an adaptive strategy for the trajectory tracking of the robot end effector is addressed; it consists of a proportional derivative technique plus an adaptive compensation. The proportional derivative technique is employed to reach the trajectory tracking. The adaptive compensation is employed to reach approximation of some unknown dynamics. The robot described in this study is employed in minimally invasive surgeries.*
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/papers/rubio2020.pdf)
+
+#### <u>Unscented Kalman filter for learning of a solar dryer and a greenhouse</u>
+*An unscented Kalman filter can be applied for the experimental learning of the solar dryer for oranges drying and the greenhouse for crop growth to know better the processes and to improve their performances. The contributions of this document are: a) an unscented Kalman filter is designed for the learning of nonlinear functions, b) the unscented Kalman filter is applied for the experimental learning of the two mentioned processes.*
+[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/papers/garcia2019.pdf)
 
 #### <u>Structure Regulator for the Perturbations Attenuation in a Quadrotor</u>
 *In this work, we study the structure regulator for the perturbations attenuation which is based on the infinite structure regulator. The structure regulator is able to attenuate the perturbations if the transfer function of the departures and perturbations has a numerical value almost equal to zero, and it does not require the perturbations to attenuate them. We apply the structure regulator and the infinite structure regulator to a quadrotor which maintains the horizontal position with respect to the earth for the step and sine perturbations.*
