@@ -6,7 +6,7 @@ description: Enrique Garcia-Trinidad publications
 
 
 
-#### <u>Hessian with Mini-Bathces for Electrical Demand Prediction</u>
+#### <u>Hessian with Mini-Batches for Electrical Demand Prediction</u>
 *The steepest descent method is frequently used for neural network tuning. Mini-batches are commonly used to get better tuning of the steepest descent in the neural network. Nevertheless, steepest descent with mini-batches could be delayed in reaching a minimum. The Hessian could be quicker than the steepest descent in reaching a minimum, and it is easier to achieve this goal by using the Hessian with mini-batches. In this article, the Hessian is combined with mini-batches for neural network tuning. The discussed algorithm is applied for electrical demand prediction.*
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/papers/elias2020.pdf)
 
