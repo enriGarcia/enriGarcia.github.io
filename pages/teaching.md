@@ -7,14 +7,53 @@ description: Asignaturas presentes
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
+            <li><a href="#progbas">Programación básica</a></li>
+            <li><a href="#ctrldig">Control digital</a></li>
             <li><a href="#matIng2">Matemáticas para Ingeniería II</a></li>
             <li><a href="#metnum">Métodos numéricos</a></li>
             <li><a href="#calcdif">Cálculo diferencial</a></li>
-            <li><a href="#progav">Programación avanzada</a></li>
-            <li><a href="#ctrllog">Control lógico avanzado</a></li>
         </ul>
     </div>
 </div>
+
+### <a name="progbas"></a>Programación básica
+
+#### <u>Tareas</u>
+Tarea 01
+[Descargar]({{ BASE_PATH}}/pages/assignments/hw_01_ecsDif.pdf)
+
+Tarea 02
+[Descargar]({{ BASE_PATH}}/pages/assignments/hw_02_ecsDif.pdf)
+
+Tarea de nivelación 1
+[Descargar]({{ BASE_PATH}}/pages/assignments/hw_sp1_ecsDif.pdf)
+
+Tarea 03
+[Descargar]({{ BASE_PATH}}/pages/assignments/hw_03_ecsDif.pdf)
+
+### <a name="ctrldig"></a>Control digital 
+
+#### <u>Prácticas</u>
+Práctica 1
+[Descargar]({{ BASE_PATH}}/pages/assignments/hw_01_uc.pdf)
+
+Práctica 2
+[Descargar]({{ BASE_PATH}}/pages/assignments/hw_02_uc.pdf)
+
+Práctica 3
+[Descargar]({{ BASE_PATH}}/pages/assignments/hw_03_uc.pdf)
+
+Práctica 4
+[Descargar]({{ BASE_PATH}}/pages/assignments/hw_04_uc.pdf)
+
+Práctica 5
+[Descargar]({{ BASE_PATH}}/pages/assignments/hw_05_uc.pdf)
+
+Práctica 6
+[Descargar]({{ BASE_PATH}}/pages/assignments/hw_06_uc.pdf)
+
+Práctica 7
+[Descargar]({{ BASE_PATH}}/pages/assignments/hw_07_uc.pdf)
 
 ### <a name="matIng2"></a>Matemáticas para Ingeniería II
 
@@ -52,35 +91,6 @@ Tarea 4
 
 Tarea 5
 [Descargar]({{ BASE_PATH}}/pages/assignments/hw_05_calcDif.pdf)
-
-
-### <a name="progav"></a>Programación avanzada
-Aún sin datos
-
-
-### <a name="ctrllog"></a>Control lógico avanzado
-
-#### <u>Control lógico avanzado</u>
-Tarea 1
-[Descargar]({{ BASE_PATH}}/pages/assignments/hw_01_uc.pdf)
-
-Tarea 2
-[Descargar]({{ BASE_PATH}}/pages/assignments/hw_02_uc.pdf)
-
-Tarea 3
-[Descargar]({{ BASE_PATH}}/pages/assignments/hw_03_uc.pdf)
-
-Tarea 4
-[Descargar]({{ BASE_PATH}}/pages/assignments/hw_04_uc.pdf)
-
-Tarea 5
-[Descargar]({{ BASE_PATH}}/pages/assignments/hw_05_uc.pdf)
-
-Tarea 6
-[Descargar]({{ BASE_PATH}}/pages/assignments/hw_06_uc.pdf)
-
-Tarea 7
-[Descargar]({{ BASE_PATH}}/pages/assignments/hw_07_uc.pdf)
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
