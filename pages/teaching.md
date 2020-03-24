@@ -34,30 +34,40 @@ Tarea 03
 ### <a name="ctrldig"></a>Control digital 
 
 #### <u>Prácticas</u>
-Práctica 1 - pdf (51k)
+Práctica 1 - pdf (437k)
 [![pdf](icons16/pdf-icon.png)]({{BASE_PATH}}/pages/assignments/prac_ctrldig_01.pdf)
+[![github](icons16/github-icon.png)](https://github.com/enriGarcia/microcontroladores/blob/master/src/prac01-1.c)
+[![github](icons16/github-icon.png)](https://github.com/enriGarcia/microcontroladores/blob/master/src/prac01-2.c)
+[![github](icons16/github-icon.png)](https://github.com/enriGarcia/microcontroladores/blob/master/src/prac01-3.c)
+[![github](icons16/github-icon.png)](https://github.com/enriGarcia/microcontroladores/blob/master/src/prac01-4.c)<br/>
+
+Práctica 2 - pdf (249k)
+[![pdf](icons16/pdf-icon.png)]({{BASE_PATH}}/pages/assignments/prac_ctrldig_02.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_MSU2019)<br/>
 
-Práctica 2
-[Descargar]({{ BASE_PATH}}/pages/assignments/prac_ctrldig_02.pdf)
+Práctica 3 - pdf (223k)
+[![pdf](icons16/pdf-icon.png)]({{BASE_PATH}}/pages/assignments/prac_ctrldig_03.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_MSU2019)<br/>
 
-Práctica 3
-[Descargar]({{ BASE_PATH}}/pages/assignments/prac_ctrldig_03.pdf)
+Práctica 4 - pdf (319k)
+[![pdf](icons16/pdf-icon.png)]({{BASE_PATH}}/pages/assignments/prac_ctrldig_04.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_MSU2019)<br/>
 
-Práctica 4
-[Descargar]({{ BASE_PATH}}/pages/assignments/prac_ctrldig_04.pdf)
+Práctica 5 - pdf (66k)
+[![pdf](icons16/pdf-icon.png)]({{BASE_PATH}}/pages/assignments/prac_ctrldig_05.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_MSU2019)<br/>
 
-Práctica 5
-[Descargar]({{ BASE_PATH}}/pages/assignments/prac_ctrldig_05.pdf)
+Práctica 6 - pdf (307k)
+[![pdf](icons16/pdf-icon.png)]({{BASE_PATH}}/pages/assignments/prac_ctrldig_06.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_MSU2019)<br/>
 
-Práctica 6
-[Descargar]({{ BASE_PATH}}/pages/assignments/prac_ctrldig_06.pdf)
+Práctica 7 - pdf (846k)
+[![pdf](icons16/pdf-icon.png)]({{BASE_PATH}}/pages/assignments/prac_ctrldig_07.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_MSU2019)<br/>
 
-Práctica 7
-[Descargar]({{ BASE_PATH}}/pages/assignments/prac_ctrldig_07.pdf)
-
-Práctica 8
-[Descargar]({{ BASE_PATH}}/pages/assignments/prac_ctrldig_08.pdf)
+Práctica 8 - pdf (389k)
+[![pdf](icons16/pdf-icon.png)]({{BASE_PATH}}/pages/assignments/prac_ctrldig_08.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_MSU2019)<br/>
 
 
 ### <a name="matIng2"></a>Matemáticas para Ingeniería II
