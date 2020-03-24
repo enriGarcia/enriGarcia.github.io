@@ -33,6 +33,10 @@ Tarea 03
 
 ### <a name="ctrldig"></a>Control digital 
 
+#### <u>Prerequisitos</u>
+Antes de comezar leer las siguientes instrucciones 
+[![html](icons16/html-icon.png)](https://enriquegarcia.xyz/pages/instructions/microconSetup)
+
 #### <u>Prácticas</u>
 Práctica 1 - pdf (437k)
 [![pdf](icons16/pdf-icon.png)]({{BASE_PATH}}/pages/assignments/prac_ctrldig_01.pdf)
