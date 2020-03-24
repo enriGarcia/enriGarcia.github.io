@@ -35,25 +35,29 @@ Tarea 03
 
 #### <u>Prácticas</u>
 Práctica 1
-[Descargar]({{ BASE_PATH}}/pages/assignments/hw_01_uc.pdf)
+[Descargar]({{ BASE_PATH}}/pages/assignments/prac_ctrldig_01.pdf)
 
 Práctica 2
-[Descargar]({{ BASE_PATH}}/pages/assignments/hw_02_uc.pdf)
+[Descargar]({{ BASE_PATH}}/pages/assignments/prac_ctrldig_02.pdf)
 
 Práctica 3
-[Descargar]({{ BASE_PATH}}/pages/assignments/hw_03_uc.pdf)
+[Descargar]({{ BASE_PATH}}/pages/assignments/prac_ctrldig_03.pdf)
 
 Práctica 4
-[Descargar]({{ BASE_PATH}}/pages/assignments/hw_04_uc.pdf)
+[Descargar]({{ BASE_PATH}}/pages/assignments/prac_ctrldig_04.pdf)
 
 Práctica 5
-[Descargar]({{ BASE_PATH}}/pages/assignments/hw_05_uc.pdf)
+[Descargar]({{ BASE_PATH}}/pages/assignments/prac_ctrldig_05.pdf)
 
 Práctica 6
-[Descargar]({{ BASE_PATH}}/pages/assignments/hw_06_uc.pdf)
+[Descargar]({{ BASE_PATH}}/pages/assignments/prac_ctrldig_06.pdf)
 
 Práctica 7
-[Descargar]({{ BASE_PATH}}/pages/assignments/hw_07_uc.pdf)
+[Descargar]({{ BASE_PATH}}/pages/assignments/prac_ctrldig_07.pdf)
+
+Práctica 8
+[Descargar]({{ BASE_PATH}}/pages/assignments/prac_ctrldig_08.pdf)
+
 
 ### <a name="matIng2"></a>Matemáticas para Ingeniería II
 
