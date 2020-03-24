@@ -69,6 +69,7 @@ http://digital-wizard.net/files/extreme_burner_avr_v1.4.3_setup.exe) y ejecute e
 
 # Cableado del circuito base
 [Volver al Índice](#índice)
+
 El circuito base es lo mínimo necesario para comenzar a realizar las prácticas, después de ejecutar estos pasos usted podrá grabar su microcontrolador sin problemas.
 
 ## Conexión de la fuente de alimentación
