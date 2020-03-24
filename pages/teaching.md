@@ -34,8 +34,9 @@ Tarea 03
 ### <a name="ctrldig"></a>Control digital 
 
 #### <u>Prácticas</u>
-Práctica 1
-[Descargar]({{ BASE_PATH}}/pages/assignments/prac_ctrldig_01.pdf)
+Práctica 1 - pdf (51k)
+[![pdf](icons16/pdf-icon.png)]({{BASE_PATH}}/pages/assignments/prac_ctrldig_01.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_MSU2019)<br/>
 
 Práctica 2
 [Descargar]({{ BASE_PATH}}/pages/assignments/prac_ctrldig_02.pdf)
