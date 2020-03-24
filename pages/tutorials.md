@@ -5,6 +5,7 @@ description: Tutoriales de Enrique Garcia-Trinidad
 ---
 
 - [Instalación de Anaconda Python en Windows](https://enriquegarcia.xyz/pages/instructions/installPython)
+- [Instalación de Hardware y Software para usar el microcontrolador ATmega328P](https://enriquegarcia.xyz/pages/instructions/microconSetup)
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
