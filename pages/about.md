@@ -14,9 +14,7 @@ description: Enrique García es Profesor - Investigador en el Tecnológico de Es
         </div>
 
         <div class="span2">
-        <a href="../assets/enrique.jpg">
-            <img src="../assets/enrique.jpg"
-                  title="Enrique García" /></a>
+            <img src="../assets/enri.png"
         </div>
     </div>
 </div>

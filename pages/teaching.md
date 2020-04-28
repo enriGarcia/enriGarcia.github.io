@@ -34,7 +34,7 @@ Tarea 03
 ### <a name="ctrldig"></a>Control digital 
 
 #### <u>Prerequisitos</u>
-Antes de comezar leer las siguientes instrucciones 
+Antes de comezar, leer las siguientes instrucciones 
 [![html](icons16/html-icon.png)](https://enriquegarcia.xyz/pages/instructions/microconSetup)
 
 #### <u>Prácticas</u>
