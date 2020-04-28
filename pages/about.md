@@ -15,6 +15,7 @@ description: Enrique García es Profesor - Investigador en el Tecnológico de Es
 
         <div class="span2">
             <img src="../assets/enri.jpg"
+                  title= "Enrique García Trinidad" /></a>
         </div>
     </div>
 </div>
