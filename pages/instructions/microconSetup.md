@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Instalación de hardware y software para las prácticas.
-description: Instalación de hardware y software para el microcontrolador.
+title: Instalación de hardware y software para la asignatura de Microcontroladores.
+description: Instalación de hardware y software para el microcontrolador ATMEGA328P.
 ---
 > Este tutorial es para usuarios de Windows.
 
@@ -73,6 +73,7 @@ http://digital-wizard.net/files/extreme_burner_avr_v1.4.3_setup.exe) y ejecute e
 El circuito base es lo mínimo necesario para comenzar a realizar las prácticas, después de ejecutar estos pasos usted podrá grabar su microcontrolador sin problemas.
 
 ## Conexión de la fuente de alimentación
+
 1. Conecte el siguiente diagrama:
 
 ![Circuito de alimentación](https://raw.githubusercontent.com/enriGarcia/microcontroladores/master/images/sourceCircuit.png)
@@ -80,6 +81,7 @@ El circuito base es lo mínimo necesario para comenzar a realizar las prácticas
 2. Conecte su fuente de alimentación. Con un multímetro cheque que realmente `Vcc` tenga el valor de `5.0V`. Si no es así, revise sus conexiones.
 
 ## Conexión de la tarjeta Usbasp
+
 1. Desconecte la fuente de alimentación. Complete el circuito anterior de acuerdo al siguiente diagrama, a este circuito lo llamamos _Circuito base_:
 
 ![Circuito base](https://raw.githubusercontent.com/enriGarcia/microcontroladores/master/images/baseCircuit.png)
