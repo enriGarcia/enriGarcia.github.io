@@ -1,8 +1,8 @@
 ---
 layout: frontpage
-title: Enrique García Trinidad
+title: Enrique García-Trinidad
 description: Enrique García Trinidad es Profesor - Investigador en el Tecnológico de Estudios Superiores de Huixquilucan.
-keywords: Enrique, García, Trinidad, UTFV, TESH, robótica, machine, learning
+keywords: Enrique Garcia Trinidad, Enrique, García, Trinidad, UTFV, TESH, robótica, machine, learning, visión, ingeniería
 ---
 
 <div class="navbar">
