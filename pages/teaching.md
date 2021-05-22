@@ -16,6 +16,7 @@ description: Asignaturas actuales
 
 ### <a name="tesh"></a>Cursos TESH
 [Programación básica](https://enriquegarcia.xyz/pages/teaching/progBas)
+[Instrumentación](https://enriquegarcia.xyz/pages/teaching/instr)
 
 
 ### <a name="utfv"></a>Cursos UTFV 
