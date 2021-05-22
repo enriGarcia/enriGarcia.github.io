@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acerca de
-description: Enrique García es Profesor - Investigador en el Tecnológico de Estudios Superiores de Huixquilucan.
+description: Enrique García es Profesor en el Tecnológico de Estudios Superiores de Huixquilucan.
 ---
 
 <div class="container">
@@ -10,7 +10,7 @@ description: Enrique García es Profesor - Investigador en el Tecnológico de Es
     <div class="row-fluid">
         <div class="span5">
             Enrique García<br/>
-            Email: enrique.garcia@tesh.edu.mx<br/>
+            Email: enrique.g.t@huixquilucan.tecnm.mx<br/>
         </div>
 
         <div class="span2">
