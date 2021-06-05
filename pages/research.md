@@ -3,7 +3,7 @@ layout: page
 title: Investigación
 description: Investigaciones de Enrique Garcia-Trinidad
 ---
-
+![Banda]({{BASE_PATH}}/assets/apu.gif)
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
