@@ -10,7 +10,7 @@ description: Enrique García es Profesor en el Tecnológico de Estudios Superior
     <div class="row-fluid">
         <div class="span5">
             Enrique García<br/>
-            Email: enrique.g.t@huixquilucan.tecnm.mx<br/>
+            Email: enrique@enriquegarcia.xyz<br/>
         </div>
 
         <div class="span2">
