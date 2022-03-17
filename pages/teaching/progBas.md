@@ -17,6 +17,10 @@ description: Instalación de hardware y software para el microcontrolador ATMEGA
 |Tema              |Ejercicio       |Solución interactiva|
 |------------------|:--------------:|-------------------:|
 |Sentencias básicas|[Ejercicio 1    ]({{ BASE_PATH}}/pages/assignments/progBas_ex_001.pdf)|[Solución](https://codehs.com/sandbox/id/ex_065-cnvBHR)|
+|Sentencias básicas|[Ejercicio 2    ]({{ BASE_PATH}}/pages/assignments/progBas_ex_002.pdf)|[Solución](https://codehs.com/sandbox/id/ex_065-cnvBHR)|
+|Sentencias básicas|[Ejercicio 3    ]({{ BASE_PATH}}/pages/assignments/progBas_ex_003.pdf)|[Solución](https://codehs.com/sandbox/id/ex_065-cnvBHR)|
+|Sentencias básicas|[Ejercicio 4    ]({{ BASE_PATH}}/pages/assignments/progBas_ex_004.pdf)|[Solución](https://codehs.com/sandbox/id/ex_065-cnvBHR)|
+|Sentencias básicas|[Ejercicio 5    ]({{ BASE_PATH}}/pages/assignments/progBas_ex_005.pdf)|[Solución](https://codehs.com/sandbox/id/ex_065-cnvBHR)|
 
 
 # Instalación del software
