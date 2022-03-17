@@ -38,7 +38,7 @@ Planeación de trayectorias para robots manipuladores:
 - Doctor en Ingeniería de Sistemas Robóticos y Mecatrónicos, Instituto Politécnico Nacional, México.
 
 ### Otros
-- Candidato al Sistema Nacional de Investigadores.
+- Investigador Nacional Nivel 1.
 - Miembro de la IEEE Robotics and Automation Society.  
 - Miembro de la IEEE Computational Intelligence Society.
 - Reconocimiento PRODEP.
