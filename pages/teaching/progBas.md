@@ -21,6 +21,11 @@ description: Instalación de hardware y software para el microcontrolador ATMEGA
 |Sentencias básicas|[Ejercicio 3    ]({{ BASE_PATH}}/pages/assignments/progBas_ex_003.pdf)|[Solución](https://codehs.com/sandbox/id/ex_065-cnvBHR)|
 |Sentencias básicas|[Ejercicio 4    ]({{ BASE_PATH}}/pages/assignments/progBas_ex_004.pdf)|[Solución](https://codehs.com/sandbox/id/ex_065-cnvBHR)|
 |Sentencias básicas|[Ejercicio 5    ]({{ BASE_PATH}}/pages/assignments/progBas_ex_005.pdf)|[Solución](https://codehs.com/sandbox/id/ex_065-cnvBHR)|
+|Sentencias básicas|[Ejercicio 6    ]({{ BASE_PATH}}/pages/assignments/progBas_ex_006.pdf)|[Solución](https://codehs.com/sandbox/id/ex_065-cnvBHR)|
+|Sentencias básicas|[Ejercicio 7    ]({{ BASE_PATH}}/pages/assignments/progBas_ex_007.pdf)|[Solución](https://codehs.com/sandbox/id/ex_065-cnvBHR)|
+|Sentencias básicas|[Ejercicio 8    ]({{ BASE_PATH}}/pages/assignments/progBas_ex_008.pdf)|[Solución](https://codehs.com/sandbox/id/ex_065-cnvBHR)|
+|Sentencias básicas|[Ejercicio 9    ]({{ BASE_PATH}}/pages/assignments/progBas_ex_009.pdf)|[Solución](https://codehs.com/sandbox/id/ex_065-cnvBHR)|
+|Sentencias básicas|[Ejercicio 10   ]({{ BASE_PATH}}/pages/assignments/progBas_ex_010.pdf)|[Solución](https://codehs.com/sandbox/id/ex_065-cnvBHR)|
 
 
 # Instalación del software
