@@ -24,7 +24,7 @@ description: Asignaturas actuales
 
 ### <a name="utfv"></a>Cursos 2020 
 
-[Instrumentación](https://enriquegarcia.xyz/pages/teaching/instr)
+[Microcontroladores](https://enriquegarcia.xyz/pages/teaching/instr)
 
 ### <a name="ext"></a>Cursos Externos 
 Antes de comezar, leer las siguientes instrucciones 
