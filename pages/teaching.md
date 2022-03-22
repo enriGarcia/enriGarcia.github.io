@@ -17,6 +17,7 @@ description: Asignaturas actuales
 ### <a name="tesh"></a>Cursos 2022
 
 [Programación básica](https://enriquegarcia.xyz/pages/teaching/progBas)
+[Análisis de circuitos eléctricos](https://enriquegarcia.xyz/pages/teaching/circElec)
 
 ### <a name="utfv"></a>Cursos 2020 
 
