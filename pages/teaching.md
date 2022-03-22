@@ -20,6 +20,8 @@ description: Asignaturas actuales
 
 [Análisis de circuitos eléctricos](https://enriquegarcia.xyz/pages/teaching/circElec)
 
+[Control Digital](https://enriquegarcia.xyz/pages/teaching/ctrlDig)
+
 ### <a name="utfv"></a>Cursos 2020 
 
 [Instrumentación](https://enriquegarcia.xyz/pages/teaching/instr)
