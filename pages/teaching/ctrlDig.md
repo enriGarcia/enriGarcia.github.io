@@ -14,17 +14,18 @@ description: Listado de prácticas
 # Lista de prácticas
 [Volver al Índice](#índice)
 
-|Tema              |Ejercicio       |
-|------------------|:--------------:|
-|Conceptos básicos de circuitos eléctricos|[Práctica 1    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_01.pdf)|
-|Conceptos básicos de circuitos eléctricos|[Práctica 2    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_02.pdf)|
-|Conceptos básicos de circuitos eléctricos|[Práctica 3    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_03.pdf)|
-|Conceptos básicos de circuitos eléctricos|[Práctica 4    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_04.pdf)|
-|Técnicas de análisis                     |[Práctica 5    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_05.pdf)|
-|Análisis de circuitos de CA              |[Práctica 6    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_06.pdf)|
-|Análisis de circuitos de CA              |[Práctica 7    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_07.pdf)|
-|Análisis de circuitos de CA              |[Práctica 8    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_08.pdf)|
-|Análisis de circuitos de CA              |[Práctica 9    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_09.pdf)|
+|Tema                         |Ejercicio       |
+|-----------------------------|:--------------:|
+|Transformada Laplace         |[Tablas Laplace]({{ BASE_PATH}}/pages/assignments/laplace_tables.pdf)|
+|Transformada Laplace         |[Práctica 1    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_01.pdf)|
+|Transformada Laplace         |[Práctica 2    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_02.pdf)|
+|Transformada Laplace         |[Práctica 3    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_03.pdf)|
+|Transformada Laplace         |[Práctica 4    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_04.pdf)|
+|Técnicas de análisis         |[Práctica 5    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_05.pdf)|
+|Análisis de circuitos de CA  |[Práctica 6    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_06.pdf)|
+|Análisis de circuitos de CA  |[Práctica 7    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_07.pdf)|
+|Análisis de circuitos de CA  |[Práctica 8    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_08.pdf)|
+|Análisis de circuitos de CA  |[Práctica 9    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_09.pdf)|
 
 
 # Instalación del software
