@@ -21,7 +21,7 @@ description: Listado de prácticas
 |Transformada Laplace         |[Práctica 2    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_02.pdf)|
 |Transformada Laplace         |[Práctica 3    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_03.pdf)|
 |Transformada Laplace         |[Práctica 4    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_04.pdf)|
-|Técnicas de análisis         |[Práctica 5    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_05.pdf)|
+|Modelos dinámicos            |[Práctica 5    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_05.pdf)|
 |Análisis de circuitos de CA  |[Práctica 6    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_06.pdf)|
 |Análisis de circuitos de CA  |[Práctica 7    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_07.pdf)|
 |Análisis de circuitos de CA  |[Práctica 8    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_08.pdf)|
