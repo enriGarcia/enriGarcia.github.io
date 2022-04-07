@@ -14,7 +14,7 @@ description: Instalación de hardware y software para el microcontrolador ATMEGA
 # Exámenes
 [Volver al Índice](#índice)
 
-- Resolver el [Examen de la Unidad 1](https://forms.office.com/Pages/ResponsePage.aspx?id=y1jm2P_6VUyB-AXvC5vUbKT3YTvvN1tKvjmLKqHNWhZUOEVJUzdHWEc0OElIQjY5SURCWEVZM1M4NC4u) antes de las 22:00hrs del 7 de abril de 2022. Necesita entrar al examen con su correo oficial (@huixquilucan.tecnm.mx).
+- Resolver el [Examen de la Unidad 1](https://forms.office.com/Pages/ResponsePage.aspx?id=y1jm2P_6VUyB-AXvC5vUbKT3YTvvN1tKvjmLKqHNWhZUOEVJUzdHWEc0OElIQjY5SURCWEVZM1M4NC4u) antes de las 22:00hrs del 7 de abril de 2022. Necesita entrar al examen con su correo oficial (@huixquilucan.tecnm.mx). El examen sólo puede ser contestado UNA SOLA VEZ, por lo que no es posible que vuelva a entrar en el, esto quiere decir que cuando lo empiece tiene que terminarlo en un sólo intento.
 
 # Lista de ejercicios
 [Volver al Índice](#índice)
