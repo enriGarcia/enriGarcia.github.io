@@ -10,6 +10,7 @@ description: Instalación de hardware y software para el microcontrolador ATMEGA
 - [Lista de ejercicios](#lista-de-ejercicios)
 - [Instalación del software](#instalación-del-software)
 - [Videos de las clases](#videos-de-las-clases)
+- [Calificaciones](#calificaciones)
 
 # Exámenes
 [Volver al Índice](#índice)
@@ -118,6 +119,11 @@ Cada paquetería de software que usamos en la clase esta disponible de manera gr
 
 # Videos de las clases
 [Volver al Índice](#índice)
+
+# Calificaciones
+[Volver al Índice](#índice)
+
+- Calificaciones de [Primera Unidad]({{ BASE_PATH}}/pages/stuff/u1_prgb.pdf)
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
