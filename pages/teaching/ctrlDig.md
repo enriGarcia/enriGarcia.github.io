@@ -9,6 +9,7 @@ description: Listado de prácticas
 - [Lista de prácticas](#lista-de-prácticas)
 - [Instalación del software](#instalación-del-software)
 - [Videos de las clases](#videos-de-las-clases)
+- [Calificaciones](#calificaciones)
 
 
 # Lista de prácticas
@@ -35,6 +36,11 @@ description: Listado de prácticas
 
 # Videos de las clases
 [Volver al Índice](#índice)
+
+# Calificaciones
+[Volver al Índice](#índice)
+
+- Calificaciones de [Primera Unidad]({{ BASE_PATH}}/pages/stuff/u1_ctrl.pdf)
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
