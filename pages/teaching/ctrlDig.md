@@ -18,18 +18,18 @@ description: Listado de prácticas
 |Tema                         |Ejercicio       |
 |-----------------------------|:--------------:|
 |Transformada Laplace         |[Tablas Laplace]({{ BASE_PATH}}/pages/assignments/laplace_tables.pdf)|
-|Transformada Z               |[Tablas Z      ]({{ BASE_PATH}}/pages/assignments/z_tables.pdf)|
-|Transformada Laplace         |[Práctica 1    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_01.pdf)|
-|Transformada Laplace         |[Práctica 2    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_02.pdf)|
-|Transformada Laplace         |[Práctica 3    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_03.pdf)|
-|Transformada Laplace         |[Práctica 4    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_04.pdf)|
-|Señales discretas            |[Práctica 5    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_05.pdf)|
-|Transformada Z               |[Práctica 6    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_06.pdf)|
-|Transformada inversa Z       |[Práctica 7    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_07.pdf)|
-|Función de transferencia     |[Práctica 8    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_08.pdf)|
-|Función de transferencia     |[Práctica 9    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_09.pdf)|
-|Función de transferencia     |[Práctica 10   ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_10.pdf)|
-|Experimento 1                |[Práctica 11   ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_11.pdf)|
+|Transformada Z               |[Tablas Z      ]({{ BASE_PATH}}/pages/assignments/z-tables.pdf)|
+|Transformada Laplace         |[Práctica 1    ]({{ BASE_PATH}}/pages/assignments/ex_01_ctrlDig.pdf)|
+|Transformada Laplace         |[Práctica 2    ]({{ BASE_PATH}}/pages/assignments/ex_02_ctrlDig.pdf)|
+|Transformada Laplace         |[Práctica 3    ]({{ BASE_PATH}}/pages/assignments/ex_03_ctrlDig.pdf)|
+|Transformada Laplace         |[Práctica 4    ]({{ BASE_PATH}}/pages/assignments/ex_04_ctrlDig.pdf)|
+|Señales discretas            |[Práctica 5    ]({{ BASE_PATH}}/pages/assignments/ex_05_ctrlDig.pdf)|
+|Transformada Z               |[Práctica 6    ]({{ BASE_PATH}}/pages/assignments/ex_06_ctrlDig.pdf)|
+|Transformada inversa Z       |[Práctica 7    ]({{ BASE_PATH}}/pages/assignments/ex_07_ctrlDig.pdf)|
+|Función de transferencia     |[Práctica 8    ]({{ BASE_PATH}}/pages/assignments/ex_08_ctrlDig.pdf)|
+|Función de transferencia     |[Práctica 9    ]({{ BASE_PATH}}/pages/assignments/ex_09_ctrlDig.pdf)|
+|Función de transferencia     |[Práctica 10   ]({{ BASE_PATH}}/pages/assignments/ex_10_ctrlDig.pdf)|
+|Experimento 1                |[Práctica 11   ]({{ BASE_PATH}}/pages/assignments/ex_11_ctrlDig.pdf)|
 
 
 # Instalación del software
