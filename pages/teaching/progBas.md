@@ -6,10 +6,16 @@ description: Instalación de hardware y software para el microcontrolador ATMEGA
 > La asignatura esta orientada a estudiantes con poca o ninguna experiencia en programación, aportando al estudiante la capacidad de desarrollar un pensamiento lógico y la identificación de cómo la computación puede usarse para resolver problemas, estableciendo confianza en el estudiante para que escriba pequeños scripts que le permitan completar objetivos prácticos. En la clase se utiliza el lenguaje de programación Python 3.9.
 
 # Índice
+- [Exámenes](#exámenes)
 - [Lista de ejercicios](#lista-de-ejercicios)
 - [Instalación del software](#instalación-del-software)
 - [Videos de las clases](#videos-de-las-clases)
+- [Calificaciones](#calificaciones)
 
+# Exámenes
+[Volver al Índice](#índice)
+
+- Resolver el [Examen de la Unidad 1](https://forms.office.com/Pages/ResponsePage.aspx?id=y1jm2P_6VUyB-AXvC5vUbKT3YTvvN1tKvjmLKqHNWhZUOEVJUzdHWEc0OElIQjY5SURCWEVZM1M4NC4u) antes de las 22:00hrs del 7 de abril de 2022. Necesita entrar al examen con su correo oficial (@huixquilucan.tecnm.mx). El examen sólo puede ser contestado UNA SOLA VEZ, por lo que no es posible que vuelva a entrar en el, esto quiere decir que cuando lo empiece tiene que terminarlo en un sólo intento.
 
 # Lista de ejercicios
 [Volver al Índice](#índice)
@@ -113,6 +119,11 @@ Cada paquetería de software que usamos en la clase esta disponible de manera gr
 
 # Videos de las clases
 [Volver al Índice](#índice)
+
+# Calificaciones
+[Volver al Índice](#índice)
+
+- Calificaciones de [Primera Unidad]({{ BASE_PATH}}/pages/stuff/u1_prgb.pdf)
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
