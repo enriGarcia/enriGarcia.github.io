@@ -17,15 +17,18 @@ description: Listado de prácticas
 |Tema                         |Ejercicio       |
 |-----------------------------|:--------------:|
 |Transformada Laplace         |[Tablas Laplace]({{ BASE_PATH}}/pages/assignments/laplace_tables.pdf)|
+|Transformada Z               |[Tablas Z      ]({{ BASE_PATH}}/pages/assignments/z_tables.pdf)|
 |Transformada Laplace         |[Práctica 1    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_01.pdf)|
 |Transformada Laplace         |[Práctica 2    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_02.pdf)|
 |Transformada Laplace         |[Práctica 3    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_03.pdf)|
 |Transformada Laplace         |[Práctica 4    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_04.pdf)|
-|Modelos dinámicos            |[Práctica 5    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_05.pdf)|
-|Análisis de circuitos de CA  |[Práctica 6    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_06.pdf)|
-|Análisis de circuitos de CA  |[Práctica 7    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_07.pdf)|
-|Análisis de circuitos de CA  |[Práctica 8    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_08.pdf)|
-|Análisis de circuitos de CA  |[Práctica 9    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_09.pdf)|
+|Señales discretas            |[Práctica 5    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_05.pdf)|
+|Transformada Z               |[Práctica 6    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_06.pdf)|
+|Transformada inversa Z       |[Práctica 7    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_07.pdf)|
+|Función de transferencia     |[Práctica 8    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_08.pdf)|
+|Función de transferencia     |[Práctica 9    ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_09.pdf)|
+|Función de transferencia     |[Práctica 10   ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_10.pdf)|
+|Experimento 1                |[Práctica 11   ]({{ BASE_PATH}}/pages/assignments/ctrldig_ex_11.pdf)|
 
 
 # Instalación del software
