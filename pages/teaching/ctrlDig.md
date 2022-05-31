@@ -30,6 +30,7 @@ description: Listado de prácticas
 |Función de transferencia     |[Práctica 9    ]({{ BASE_PATH}}/pages/assignments/ex_09_ctrlDig.pdf)|
 |Función de transferencia     |[Práctica 10   ]({{ BASE_PATH}}/pages/assignments/ex_10_ctrlDig.pdf)|
 |Experimento 1                |[Práctica 11   ]({{ BASE_PATH}}/pages/assignments/ex_11_ctrlDig.pdf)|
+|Experimento 2                |[Práctica 12   ]({{ BASE_PATH}}/pages/assignments/prac-1_ctrlDig.pdf)|
 
 
 # Instalación del software
