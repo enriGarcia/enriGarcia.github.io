@@ -31,13 +31,13 @@ description: Listado de prácticas
 |Función de transferencia     |[Ejercicio 10  ]({{ BASE_PATH}}/pages/assignments/ex_10_ctrlDig.pdf)|
 |Adquisición de datos         |[Ejercicio 11  ]({{ BASE_PATH}}/pages/assignments/ex_11_ctrlDig.pdf)|
 |Experimento 1                |[Práctica 1    ]({{ BASE_PATH}}/pages/assignments/prac_ctrlDig_exp1.pdf)|
-|Experimento 2                |[Práctica 2    ]({{ BASE_PATH}}/pages/assignments/prac_ctrlDig_exp1.pdf)|
-|Experimento 3                |[Práctica 3    ]({{ BASE_PATH}}/pages/assignments/prac_ctrlDig_exp1.pdf)|
-|Experimento 4                |[Práctica 4    ]({{ BASE_PATH}}/pages/assignments/prac_ctrlDig_exp1.pdf)|
-|Experimento 5                |[Práctica 5    ]({{ BASE_PATH}}/pages/assignments/prac_ctrlDig_exp1.pdf)|
-|Experimento 6                |[Práctica 6    ]({{ BASE_PATH}}/pages/assignments/prac_ctrlDig_exp1.pdf)|
-|Experimento 7                |[Práctica 7    ]({{ BASE_PATH}}/pages/assignments/prac_ctrlDig_exp1.pdf)|
-|Experimento 8                |[Práctica 8    ]({{ BASE_PATH}}/pages/assignments/prac_ctrlDig_exp1.pdf)|
+|Experimento 2                |[Práctica 2    ]({{ BASE_PATH}}/pages/assignments/prac_ctrlDig_exp2.pdf)|
+|Experimento 3                |[Práctica 3    ]({{ BASE_PATH}}/pages/assignments/prac_ctrlDig_exp3.pdf)|
+|Experimento 4                |[Práctica 4    ]({{ BASE_PATH}}/pages/assignments/prac_ctrlDig_exp4.pdf)|
+|Experimento 5                |[Práctica 5    ]({{ BASE_PATH}}/pages/assignments/prac_ctrlDig_exp5.pdf)|
+|Experimento 6                |[Práctica 6    ]({{ BASE_PATH}}/pages/assignments/prac_ctrlDig_exp6.pdf)|
+|Experimento 7                |[Práctica 7    ]({{ BASE_PATH}}/pages/assignments/prac_ctrlDig_exp7.pdf)|
+|Experimento 8                |[Práctica 8    ]({{ BASE_PATH}}/pages/assignments/prac_ctrlDig_exp8.pdf)|
 
 
 # Instalación del software
