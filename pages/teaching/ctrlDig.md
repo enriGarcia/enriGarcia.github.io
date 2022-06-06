@@ -1,4 +1,4 @@
----
+
 layout: page
 title: Control Digital
 description: Listado de prácticas
@@ -30,7 +30,7 @@ description: Listado de prácticas
 |Función de transferencia     |[Ejercicio 9   ]({{ BASE_PATH}}/pages/assignments/ex_09_ctrlDig.pdf)|
 |Función de transferencia     |[Ejercicio 10  ]({{ BASE_PATH}}/pages/assignments/ex_10_ctrlDig.pdf)|
 |Adquisición de datos         |[Ejercicio 11  ]({{ BASE_PATH}}/pages/assignments/ex_11_ctrlDig.pdf)|
-|Experimento 1                |[Práctica 1    ]({{ BASE_PATH}}/pages/assignments/prac_ctrlDig_exp1.pdf)|
+|Experimento 1 [Link](https://ctms.engin.umich.edu/CTMS/index.php?aux=Activities_RCcircuitA) |[Práctica 1    ]({{ BASE_PATH}}/pages/assignments/prac_ctrlDig_exp1.pdf)|
 |Experimento 2                |[Práctica 2    ]({{ BASE_PATH}}/pages/assignments/prac_ctrlDig_exp2.pdf)|
 |Experimento 3                |[Práctica 3    ]({{ BASE_PATH}}/pages/assignments/prac_ctrlDig_exp3.pdf)|
 |Experimento 4                |[Práctica 4    ]({{ BASE_PATH}}/pages/assignments/prac_ctrlDig_exp4.pdf)|
