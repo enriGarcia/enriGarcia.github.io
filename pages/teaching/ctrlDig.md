@@ -38,6 +38,8 @@ description: Listado de prácticas
 |Experimento 6                |[Práctica 6    ]({{ BASE_PATH}}/pages/assignments/prac_ctrlDig_exp6.pdf)|
 |Experimento 7                |[Práctica 7    ]({{ BASE_PATH}}/pages/assignments/prac_ctrlDig_exp7.pdf)|
 |Experimento 8                |[Práctica 8    ]({{ BASE_PATH}}/pages/assignments/prac_ctrlDig_exp8.pdf)|
+|Software de simulación       |[Descargar     ](https://drive.google.com/file/d/18FLnXF6Go-oBzRiZrygumQdUX0FuBpv2/view?usp=sharing)|
+|Instrucciones de instalación |[Ver           ](https://drive.google.com/file/d/1wTgLgmGoVZS_Iw0iaYA8SPQ4h1Mnjr-S/view?usp=sharing)|
 
 
 # Instalación del software
