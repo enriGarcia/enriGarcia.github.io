@@ -56,6 +56,10 @@ description: Enrique Garcia-Trinidad publications
 
 ## Tesis dirigidas
 
+#### <u>Diseño y construcción de una plataforma de robots móviles de configuración (2,0) para tareas cooperativas</u>
+*Autora: Laura Sánchez Rodriguez*
+[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/papers/balcazar2022.pdf)
+
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
 <!--
