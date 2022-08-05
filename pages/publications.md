@@ -69,6 +69,14 @@ description: Enrique Garcia-Trinidad publications
 *Autora: Laura Sánchez Rodriguez*
 [Descargar el trabajo de tesis]({{ BASE_PATH}}/pages/thesis/sanchez2019.pdf)
 
+#### <u>Diseño de dos configuraciones de péndulos invertidos</u>
+*Autor: Kevin Uriel Villa Rosas*
+[Descargar el trabajo de tesis]({{ BASE_PATH}}/pages/thesis/sanchez2019.pdf)
+
+#### <u>Construcción de un módulo didáctico para el análisis de señales analógicas con PLC</u>
+*Autor: Jonathan García Tellez*
+[Descargar el trabajo de tesis]({{ BASE_PATH}}/pages/thesis/sanchez2019.pdf)
+
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
 <!--

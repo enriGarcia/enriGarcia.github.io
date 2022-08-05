@@ -14,7 +14,7 @@ description: Asignaturas actuales
     </div>
 </div>
 
-### <a name="tesh"></a>Cursos 2022
+### <a name="2022"></a>Cursos 2022
 
 [Programación básica](https://enriquegarcia.xyz/pages/teaching/progBas)
 
@@ -22,7 +22,7 @@ description: Asignaturas actuales
 
 [Control Digital](https://enriquegarcia.xyz/pages/teaching/ctrlDig)
 
-### <a name="utfv"></a>Cursos 2020 
+### <a name="2020"></a>Cursos 2020 
 
 [Microcontroladores](https://enriquegarcia.xyz/pages/teaching/instr)
 
