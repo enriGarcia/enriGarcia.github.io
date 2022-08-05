@@ -4,7 +4,16 @@ title: Publicaciones
 description: Enrique Garcia-Trinidad publications
 ---
 
-## Artículos publicados
+<div class="navbar">
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="#papers">Artículos</a></li>
+            <li><a href="#thesis">Tesis</a></li>
+        </ul>
+    </div>
+</div>
+
+## <a name="papers"></a>Artículos publicados
 
 #### <u>The regulation of an electric oven and an inverted pendulum</u>
 *In this research, a proportional integral derivative regulator, a first-order sliding-mode regulator, and a second-order sliding-mode regulator are compared, for the regulation of two different types of mathematical model. A first-order sliding-mode regulator is a method where a sign-mapping checks that the error decays to zero after a convergence time; it has the problem of chattering in the output. A second-order sliding-mode regulator is a smooth method to counteract the chattering effect where the integral of the sign-mapping is used. A second-order sliding-mode regulator is presented as a new class of algorithm where the trajectory is asymptotic and stable; it is shown to greatly improve the convergence time in comparison with other regulators considered. Simulation and experimental results are described in which an electric oven is considered as a stable linear mathematical model, and an inverted pendulum is considered as an asymmetrical unstable non-linear mathematical model.*
@@ -54,7 +63,7 @@ description: Enrique Garcia-Trinidad publications
 *In this research, it is simulated the computed movements of a transelevator inside of a warehouse in virtual reality. This transelevator can be used to move some load from the floor to the deposit, and from the deposit to the floor, or can be used move the load from one place of the deposit to another one. The virtual reality is simulated using the graphic designer Quest3D. It is presented the simulation of the system*
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/papers/rubio2009.pdf)
 
-## Tesis dirigidas
+## <a name="thesis"></a>Tesis dirigidas
 
 #### <u>Diseño y construcción de una plataforma de robots móviles de configuración (2,0) para tareas cooperativas</u>
 *Autora: Laura Sánchez Rodriguez*
