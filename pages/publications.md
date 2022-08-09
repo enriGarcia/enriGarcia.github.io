@@ -19,7 +19,7 @@ description: Enrique Garcia-Trinidad publications
 *In this research, a proportional integral derivative regulator, a first-order sliding-mode regulator, and a second-order sliding-mode regulator are compared, for the regulation of two different types of mathematical model. A first-order sliding-mode regulator is a method where a sign-mapping checks that the error decays to zero after a convergence time; it has the problem of chattering in the output. A second-order sliding-mode regulator is a smooth method to counteract the chattering effect where the integral of the sign-mapping is used. A second-order sliding-mode regulator is presented as a new class of algorithm where the trajectory is asymptotic and stable; it is shown to greatly improve the convergence time in comparison with other regulators considered. Simulation and experimental results are described in which an electric oven is considered as a stable linear mathematical model, and an inverted pendulum is considered as an asymmetrical unstable non-linear mathematical model.*
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/papers/balcazar2022.pdf)
 
-#### <u>Convergent newton method and neural network for the electric energy usage prediction</u>
+#### <u>Convergent Newton method and neural network for the electric energy usage prediction</u>
 *In the neural network adaptation, the Newton method could find a minimum with its second-order partial derivatives, and convergent gradient steepest descent could assure its error convergence with its time-varying adaptation rates. In this article, the convergent Newton method is proposed as the combination of the Newton method and the convergent gradient steepest descent for the neural networks adaptation, where the convergent Newton method incorporates the second-order partial derivatives inside of the time-varying adaptation rates. Hence, the convergent Newton method could assure its error convergence and could find a minimum. Experiments show that the convergent Newton method obtains satisfactory results in the electric energy usage data prediction.*
 
 #### <u>Adapting H-Infinity Controller for the Desired Reference Tracking of the Sphere Position in the Maglev Process</u>
@@ -74,7 +74,7 @@ description: Enrique Garcia-Trinidad publications
 
 #### <u>Diseño de dos configuraciones de péndulos invertidos</u>
 *Autor: Kevin Uriel Villa Rosas*
-[Descargar el trabajo de tesis]({{ BASE_PATH}}/pages/thesis/sanchez2019.pdf)
+[Descargar el trabajo de tesis]({{ BASE_PATH}}/pages/thesis/villa2020.pdf)
 
 #### <u>Construcción de un módulo didáctico para el análisis de señales analógicas con PLC</u>
 *Autor: Jonathan García Tellez*
