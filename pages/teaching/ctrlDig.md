@@ -40,6 +40,8 @@ description: Listado de prácticas
 |Experimento 8                |[Práctica 8    ]({{ BASE_PATH}}/pages/assignments/prac_ctrlDig_exp8.pdf)|
 |Software de simulación       |[Descargar     ](https://drive.google.com/file/d/18FLnXF6Go-oBzRiZrygumQdUX0FuBpv2/view?usp=sharing)|
 |Instrucciones de instalación |[Ver           ](https://drive.google.com/file/d/1wTgLgmGoVZS_Iw0iaYA8SPQ4h1Mnjr-S/view?usp=sharing)|
+|Conjunto de datos 1          |[Descargar     ]({{ BASE_PATH}}/pages/ml/data_1d.csv)|
+|Conjunto de datos 2          |[Descargar     ]({{ BASE_PATH}}/pages/ml/data_2d.csv)|
 
 
 # Instalación del software
