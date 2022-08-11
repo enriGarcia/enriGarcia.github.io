@@ -42,6 +42,11 @@ description: Listado de prácticas
 |Instrucciones de instalación |[Ver           ](https://drive.google.com/file/d/1wTgLgmGoVZS_Iw0iaYA8SPQ4h1Mnjr-S/view?usp=sharing)|
 |Conjunto de datos 1          |[Descargar     ]({{ BASE_PATH}}/pages/ml/data_1d.csv)|
 |Conjunto de datos 2          |[Descargar     ]({{ BASE_PATH}}/pages/ml/data_2d.csv)|
+|Video 1 RobotStudio          |[Ver           ](https://drive.google.com/file/d/1YDzRwRfyhNnJWAYENX0_4GSIgQGygdk0/view?usp=sharing)|
+|Video 2 RobotStudio          |[Ver           ](https://drive.google.com/file/d/1wNYbbVz86Eo4RPP4QwqLVAjgkN_2Z7pR/view?usp=sharing)|
+|Video 3 RobotStudio          |[Ver           ](https://drive.google.com/file/d/14z0wW2insh-yjCcl8zoWrWILJm50YZYS/view?usp=sharing)|
+|Video 4 RobotStudio          |[Ver           ](https://drive.google.com/file/d/1icv7uPnp98ZPwCe0q8DdMkMiTN2DqoKj/view?usp=sharing)|
+|Video 5 RobotStudio          |[Ver           ](https://drive.google.com/file/d/1YNWtZNj8xZDDLl3dCsrR5VcUCbstjkYb/view?usp=sharing)|
 
 
 # Instalación del software
