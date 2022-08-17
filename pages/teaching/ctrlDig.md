@@ -1,4 +1,4 @@
-
+---
 layout: page
 title: Control Digital
 description: Listado de prácticas
