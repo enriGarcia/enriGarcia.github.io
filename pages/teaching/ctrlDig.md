@@ -48,6 +48,15 @@ description: Listado de prácticas
 |Video 4 RobotStudio          |[Ver           ](https://drive.google.com/file/d/1icv7uPnp98ZPwCe0q8DdMkMiTN2DqoKj/view?usp=sharing)|
 |Video 5 RobotStudio          |[Ver           ](https://drive.google.com/file/d/1YNWtZNj8xZDDLl3dCsrR5VcUCbstjkYb/view?usp=sharing)|
 
+Lista de proyectos recibidos
+
+|Estudiante                   |Video           |
+|-----------------------------|:--------------:|
+|Martínez Sandoval            |[Ver           ](https://drive.google.com/file/d/1M1MSTY97KboOjA70jcHdOj8dA9tlInoU/view?usp=sharing)|
+|Mondragón Cano               |[Ver           ](https://drive.google.com/file/d/1aCqy2yZjsAdS21azEOBY6TNONrGz2-eH/view?usp=sharing)|
+|García Alcántara             |[Ver           ](https://drive.google.com/file/d/1GGhGnB-AupLUsYf970cXYMYIvK5GZ_IZ/view?usp=sharing)|
+
+
 
 # Instalación del software
 [Volver al Índice](#índice)
