@@ -48,16 +48,6 @@ description: Listado de prácticas
 |Video 4 RobotStudio          |[Ver           ](https://drive.google.com/file/d/1icv7uPnp98ZPwCe0q8DdMkMiTN2DqoKj/view?usp=sharing)|
 |Video 5 RobotStudio          |[Ver           ](https://drive.google.com/file/d/1YNWtZNj8xZDDLl3dCsrR5VcUCbstjkYb/view?usp=sharing)|
 
-Lista de proyectos recibidos
-
-|Estudiante                   |Video           |
-|-----------------------------|:--------------:|
-|Martínez Sandoval            |[Ver           ](https://drive.google.com/file/d/1M1MSTY97KboOjA70jcHdOj8dA9tlInoU/view?usp=sharing)|
-|Mondragón Cano               |[Ver           ](https://drive.google.com/file/d/1aCqy2yZjsAdS21azEOBY6TNONrGz2-eH/view?usp=sharing)|
-|García Alcántara             |[Ver           ](https://drive.google.com/file/d/1GGhGnB-AupLUsYf970cXYMYIvK5GZ_IZ/view?usp=sharing)|
-
-
-
 # Instalación del software
 [Volver al Índice](#índice)
 
@@ -66,10 +56,18 @@ Lista de proyectos recibidos
 # Videos de las clases
 [Volver al Índice](#índice)
 
-# Calificaciones
+# Calificaciones de proyectos recibidos
 [Volver al Índice](#índice)
 
-- Calificaciones de [Primera Unidad]({{ BASE_PATH}}/pages/stuff/u1_ctrl.pdf)
+Lista de proyectos recibidos
+
+|Estudiante                   |Video           |Calificación      |
+|-----------------------------|:--------------:|------------------|
+|Martínez Sandoval            |[Ver           ](https://drive.google.com/file/d/1M1MSTY97KboOjA70jcHdOj8dA9tlInoU/view?usp=sharing)| E |
+|Mondragón Cano               |[Ver           ](https://drive.google.com/file/d/1aCqy2yZjsAdS21azEOBY6TNONrGz2-eH/view?usp=sharing)| E |
+|García Alcántara             |[Ver           ](https://drive.google.com/file/d/1GGhGnB-AupLUsYf970cXYMYIvK5GZ_IZ/view?usp=sharing)| E |
+|González Hernández           |[Ver           ](https://drive.google.com/file/d/1fcDqOos125kE_9459nUbn8qtTgVtXDfI/view?usp=sharing)| E |
+
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
