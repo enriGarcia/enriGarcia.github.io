@@ -68,7 +68,8 @@ Lista de proyectos recibidos
 |García Alcántara             |[Ver           ](https://drive.google.com/file/d/1GGhGnB-AupLUsYf970cXYMYIvK5GZ_IZ/view?usp=sharing)| E |
 |González Hernández           |[Ver           ](https://drive.google.com/file/d/1fcDqOos125kE_9459nUbn8qtTgVtXDfI/view?usp=sharing)| E |
 |Felipe Hernández             |[Ver           ](https://drive.google.com/file/d/1g1PvKj6n4SA4Sl0XIGD5UKc_wsPjfiPt/view?usp=sharing)| E |
-|Rodríguez Hernández          |[Ver           ](https://drive.google.com/file/d/1pdQ5hheg5kOHlO2and6qBWLkcvRYYUlS/view?usp=sharing)| ? |
+|Rodríguez Hernández          |[Ver           ](https://drive.google.com/file/d/1pdQ5hheg5kOHlO2and6qBWLkcvRYYUlS/view?usp=sharing)| MB |
+|López García                 |[Ver           ](https://drive.google.com/file/d/1leaTiijZNlbCfak2MWfdKgzY2BOrNoII/view?usp=sharing)| MB |
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
