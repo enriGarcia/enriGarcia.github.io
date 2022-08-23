@@ -74,6 +74,9 @@ Lista de proyectos recibidos
 |González Cárdenas            |[Ver           ](https://drive.google.com/file/d/1pMpZqJTUIAzd_aLaMDEfXsUFpMTsTWZ1/view?usp=sharing)| MB |
 |Herrera Zamudio              |[Ver           ](https://drive.google.com/file/d/1yz6hHfgrcJ6y5I1pIKfkMJDycGqeAB4p/view?usp=sharing)| MB |
 |Arcos Liñan                  |[Ver           ](https://drive.google.com/file/d/1IERiExWT4TZS_9F6ztpvISmy27GBOIP9/view?usp=sharing)| MB |
+|Gutiérrez Gutiérrez          |[Ver           ](https://drive.google.com/file/d/1EWaAEXcvyuGY1dvb_VcTJFb0c92V9cnW/view?usp=sharing)| MB |
+|Acosta Ávila                 |[Ver           ](https://drive.google.com/file/d/1x0HPu8b7ibegeC1woCnFGyg1HqswE1IV/view?usp=sharing)| MB |
+|Hernandez Piña               |[Ver           ](https://drive.google.com/file/d/1WtinBW_LBWMPTjN4bB2yropHMCClN8tv/view?usp=sharing)| MB |
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
