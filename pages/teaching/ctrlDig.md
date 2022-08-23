@@ -71,6 +71,9 @@ Lista de proyectos recibidos
 |Rodríguez Hernández          |[Ver           ](https://drive.google.com/file/d/1pdQ5hheg5kOHlO2and6qBWLkcvRYYUlS/view?usp=sharing)| MB |
 |López García                 |[Ver           ](https://drive.google.com/file/d/1leaTiijZNlbCfak2MWfdKgzY2BOrNoII/view?usp=sharing)| MB |
 |Pérez Martínez               |[Ver           ](https://drive.google.com/file/d/1n8V-WkctyjDabzNDkhAEMiCWxwPhN0od/view?usp=sharing)| MB |
+|González Cárdenas            |[Ver           ](https://drive.google.com/file/d/1pMpZqJTUIAzd_aLaMDEfXsUFpMTsTWZ1/view?usp=sharing)| MB |
+|Herrera Zamudio              |[Ver           ](https://drive.google.com/file/d/1yz6hHfgrcJ6y5I1pIKfkMJDycGqeAB4p/view?usp=sharing)| MB |
+|Arcos Liñan                  |[Ver           ](https://drive.google.com/file/d/1IERiExWT4TZS_9F6ztpvISmy27GBOIP9/view?usp=sharing)| MB |
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
