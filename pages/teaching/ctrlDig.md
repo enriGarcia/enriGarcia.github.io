@@ -77,6 +77,8 @@ Lista de proyectos recibidos
 |Gutiérrez Gutiérrez          |[Ver           ](https://drive.google.com/file/d/1EWaAEXcvyuGY1dvb_VcTJFb0c92V9cnW/view?usp=sharing)| MB |
 |Acosta Ávila                 |[Ver           ](https://drive.google.com/file/d/1x0HPu8b7ibegeC1woCnFGyg1HqswE1IV/view?usp=sharing)| MB |
 |Hernandez Piña               |[Ver           ](https://drive.google.com/file/d/1WtinBW_LBWMPTjN4bB2yropHMCClN8tv/view?usp=sharing)| MB |
+|Cruz Urvina                  |[Ver           ](https://drive.google.com/file/d/1ZoZtyXmQ2S-nw53ua2Twie9042GIQACX/view?usp=sharing)| MB |
+|Olvera Bautista              |[Ver           ](https://drive.google.com/file/d/1WNuvvkfra_GtiZlG1JsXgxH4I9DUzyux/view?usp=sharing)| B |
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
