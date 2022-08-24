@@ -79,6 +79,13 @@ Lista de proyectos recibidos
 |Hernandez Piña               |[Ver           ](https://drive.google.com/file/d/1WtinBW_LBWMPTjN4bB2yropHMCClN8tv/view?usp=sharing)| MB |
 |Cruz Urvina                  |[Ver           ](https://drive.google.com/file/d/1ZoZtyXmQ2S-nw53ua2Twie9042GIQACX/view?usp=sharing)| MB |
 |Olvera Bautista              |[Ver           ](https://drive.google.com/file/d/1WNuvvkfra_GtiZlG1JsXgxH4I9DUzyux/view?usp=sharing)| B |
+|Arellano Razo                | | NA |
+|Pérez Retana                 | | NA |
+|Gómez Ortíz                  | | NA |
+|Romero Rivas                 | | NA |
+|Bustos Rivera                | | NA |
+|Ramírez Cortés               | | NA |
+|Mejía Barajas                | | NA |
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
