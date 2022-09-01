@@ -19,6 +19,8 @@ description: Asignaturas actuales
 
 [Cálculo diferencial](https://enriquegarcia.xyz/pages/teaching/calcDif)
 
+[Dibujo asistido por computadora](https://enriquegarcia.xyz/pages/teaching/cad)
+
 ### <a name="2022-1"></a>Cursos 2022-1
 
 [Programación básica](https://enriquegarcia.xyz/pages/teaching/progBas)
