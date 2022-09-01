@@ -21,6 +21,8 @@ description: Asignaturas actuales
 
 [Dibujo asistido por computadora](https://enriquegarcia.xyz/pages/teaching/cad)
 
+[Programación Avanzada](https://enriquegarcia.xyz/pages/teaching/progAv)
+
 ### <a name="2022-1"></a>Cursos 2022-1
 
 [Programación básica](https://enriquegarcia.xyz/pages/teaching/progBas)
