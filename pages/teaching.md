@@ -21,7 +21,9 @@ description: Asignaturas actuales
 
 [Dibujo asistido por computadora](https://enriquegarcia.xyz/pages/teaching/cad)
 
-[Programación Avanzada](https://enriquegarcia.xyz/pages/teaching/progAv)
+[Programación avanzada](https://enriquegarcia.xyz/pages/teaching/progAv)
+
+[Cálculo integral](https://enriquegarcia.xyz/pages/teaching/calcInt)
 
 ### <a name="2022-1"></a>Cursos 2022-1
 
