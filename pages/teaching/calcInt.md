@@ -18,14 +18,7 @@ vimeoId: 747345200
 
 |Tema                         |Ejercicio       |
 |-----------------------------|:--------------:|
-|Funciones                    |[Ejercicio 1 ]({{ BASE_PATH}}/pages/assignments/calcDif_ex_01.pdf)|
-|Límites y continuidad        |[Ejercicio 2 ]({{ BASE_PATH}}/pages/assignments/calcDif_ex_02.pdf)|
-|Derivadas                    |[Ejercicio 3 ]({{ BASE_PATH}}/pages/assignments/calcDif_ex_03.pdf)|
-|Derivadas                    |[Ejercicio 4 ]({{ BASE_PATH}}/pages/assignments/calcDif_ex_04.pdf)|
-|Derivadas                    |[Ejercicio 5 ]({{ BASE_PATH}}/pages/assignments/calcDif_ex_05.pdf)|
-|Derivadas                    |[Ejercicio 6 ]({{ BASE_PATH}}/pages/assignments/calcDif_ex_06.pdf)|
-|Derivadas                    |[Ejercicio 7 ]({{ BASE_PATH}}/pages/assignments/calcDif_ex_07.pdf)|
-|Aplicaciones de la derivada  |[Ejercicio 8 ]({{ BASE_PATH}}/pages/assignments/calcDif_ex_08.pdf)|
+|Funciones                    |[Ejercicio 1 ]({{ BASE_PATH}}/pages/assignments/calcInt_ex_01.pdf)|
 
 # Instalación del software
 [Volver al Índice](#índice)
