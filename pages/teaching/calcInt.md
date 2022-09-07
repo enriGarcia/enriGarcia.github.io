@@ -2,6 +2,7 @@
 layout: page
 title: Cálculo Integral
 description: Listado de prácticas
+vimeoId: 747345200
 ---
 > El estudiante resolverá problemas de cálculo integral a través de las herramientas y métodos de integración, sucesiones y series para contribuir a la solución de situaciones de ingeniería.
 
@@ -35,7 +36,7 @@ description: Listado de prácticas
 [Volver al Índice](#índice)
 
 Tema 1. Funciones
-{% include vimeoPlayer.html id=page.747345200 %}
+{% include vimeoPlayer.html id=page.vimeoId %}
 
 # Calificaciones por parcial 
 [Volver al Índice](#índice)
