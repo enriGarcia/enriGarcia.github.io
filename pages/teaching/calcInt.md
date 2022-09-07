@@ -34,6 +34,9 @@ description: Listado de prácticas
 # Videos de las clases
 [Volver al Índice](#índice)
 
+Tema 1. Funciones
+{% include vimeoPlayer.html id=page.747345200 %}
+
 # Calificaciones por parcial 
 [Volver al Índice](#índice)
 
