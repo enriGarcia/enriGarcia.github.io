@@ -2,6 +2,7 @@
 layout: page
 title: Dibujo Asistido por Computadora
 description: Listado de prácticas
+vimeoId: 751711678
 ---
 
 > Esta asignatura aporta al perfil del estudianre, los conocimientos necesarios de dibujo en el diseño de prototipos, equipo, maquinaria e instalaciones. Así como las bases necesarias para elaborar y comprender diagramas, esquemas y planos, además de tener el conocimiento e interpretación de las normas aplicables para la elaboración de los mismos.
@@ -31,6 +32,9 @@ description: Listado de prácticas
 
 # Videos de las clases
 [Volver al Índice](#índice)
+
+Tema 1. Conceptos básicos
+{% include vimeoPlayer.html id=page.vimeoId %}
 
 # Calificaciones por parcial 
 [Volver al Índice](#índice)
