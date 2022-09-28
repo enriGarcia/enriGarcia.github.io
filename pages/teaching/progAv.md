@@ -26,6 +26,9 @@ description: Instalación de hardware y software para el microcontrolador ATMEGA
 |Funciones         |[Ejercicio 3   ]({{ BASE_PATH}}/pages/assignments/progAv_ex_003.pdf)|[Solución](https://codehs.com/sandbox/enrigarcia/ex-083/)|
 |Funciones         |[Ejercicio 4   ]({{ BASE_PATH}}/pages/assignments/progAv_ex_004.pdf)|[Solución](https://codehs.com/sandbox/enrigarcia/ex-084/)|
 |Funciones         |[Ejercicio 5   ]({{ BASE_PATH}}/pages/assignments/progAv_ex_005.pdf)|[Solución](https://codehs.com/sandbox/enrigarcia/ex-085/)|
+|Funciones         |[Ejercicio 6   ]({{ BASE_PATH}}/pages/assignments/progAv_ex_006.pdf)|[Solución](https://codehs.com/sandbox/enrigarcia/ex-089/)|
+|Funciones         |[Ejercicio 7   ]({{ BASE_PATH}}/pages/assignments/progAv_ex_007.pdf)|[Solución](https://codehs.com/sandbox/enrigarcia/ex-092/)|
+|Funciones         |[Ejercicio 8   ]({{ BASE_PATH}}/pages/assignments/progAv_ex_008.pdf)|[Solución](https://codehs.com/sandbox/enrigarcia/ex-094/)|
 
 
 # Instalación del software
