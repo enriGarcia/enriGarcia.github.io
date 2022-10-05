@@ -37,6 +37,9 @@ description: Listado de prácticas
 # Calificaciones por parcial 
 [Volver al Índice](#índice)
 
+[Lista de calificaciones]({{ BASE_PATH}}/pages/stuff/calc2022b.pdf)
+
+
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
