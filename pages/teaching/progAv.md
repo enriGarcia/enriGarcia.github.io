@@ -42,10 +42,10 @@ Cada paquetería de software que usamos en la clase esta disponible de manera gr
 # Videos de las clases
 [Volver al Índice](#índice)
 
-# Calificaciones
+# Calificaciones por parcial
 [Volver al Índice](#índice)
 
-
+[Lista de calificaciones 1]({{ BASE_PATH}}/pages/stuff/2022b_progAv1.pdf)
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 

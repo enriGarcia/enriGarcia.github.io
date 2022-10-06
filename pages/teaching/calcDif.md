@@ -37,7 +37,7 @@ description: Listado de prácticas
 # Calificaciones por parcial 
 [Volver al Índice](#índice)
 
-[Lista de calificaciones]({{ BASE_PATH}}/pages/stuff/calc2022b.pdf)
+[Lista de calificaciones 1]({{ BASE_PATH}}/pages/stuff/2022b_calcDif1.pdf)
 
 
 
