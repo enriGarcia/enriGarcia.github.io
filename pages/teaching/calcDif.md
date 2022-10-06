@@ -34,7 +34,7 @@ description: Listado de prácticas
 # Videos de las clases
 [Volver al Índice](#índice)
 
-# Calificaciones por parcial 
+# Calificaciones
 [Volver al Índice](#índice)
 
 [Lista de calificaciones 1]({{ BASE_PATH}}/pages/stuff/2022b_calcDif1.pdf)

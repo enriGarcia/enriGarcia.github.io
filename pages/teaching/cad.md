@@ -36,7 +36,7 @@ vimeoId: 751711678
 Tema 1. Conceptos básicos
 {% include vimeoPlayer.html id=page.vimeoId %}
 
-# Calificaciones por parcial 
+# Calificaciones
 [Volver al Índice](#índice)
 
 [Lista de calificaciones 1]({{ BASE_PATH}}/pages/stuff/2022b_cad1.pdf)
