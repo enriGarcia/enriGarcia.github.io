@@ -40,6 +40,7 @@ Tema 1. Conceptos básicos
 [Volver al Índice](#índice)
 
 [Lista de calificaciones 1]({{ BASE_PATH}}/pages/stuff/2022b_cad1.pdf)
+[Lista de calificaciones 2]({{ BASE_PATH}}/pages/stuff/2022b_cad2.pdf)
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
