@@ -22,6 +22,7 @@ vimeoId2: 763841789
 |Funciones                    |[Ejercicio 1 ]({{ BASE_PATH}}/pages/assignments/calcInt_ex_01.pdf)|
 |Límites                      |[Ejercicio 2 ]({{ BASE_PATH}}/pages/assignments/calcInt_ex_02.pdf)|
 |Derivadas                    |[Ejercicio 3 ]({{ BASE_PATH}}/pages/assignments/calcInt_ex_03.pdf)|
+|Integrales                   |[Ejercicio 4 ]({{ BASE_PATH}}/pages/assignments/calcInt_ex_04.pdf)|
 
 # Instalación del software
 [Volver al Índice](#índice)
