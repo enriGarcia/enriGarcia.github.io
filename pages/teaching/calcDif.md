@@ -41,6 +41,10 @@ description: Listado de prácticas
 
 [Lista de calificaciones 2]({{ BASE_PATH}}/pages/stuff/2022b_calcDif2.pdf)
 
+[Lista de calificaciones 3]({{ BASE_PATH}}/pages/stuff/2022b_calcDif3.pdf)
+
+[Lista de calificaciones Primera Oportunidad]({{ BASE_PATH}}/pages/stuff/2022b_calcDifA.pdf)
+
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
