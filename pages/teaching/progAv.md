@@ -49,13 +49,8 @@ Cada paquetería de software que usamos en la clase esta disponible de manera gr
 # Calificaciones
 [Volver al Índice](#índice)
 
-[Lista de calificaciones 1]({{ BASE_PATH}}/pages/stuff/2022b_progAv1.pdf)
+[Lista de calificación final]({{ BASE_PATH}}/pages/stuff/2022b_progAvFinal.pdf)
 
-[Lista de calificaciones 2]({{ BASE_PATH}}/pages/stuff/2022b_progAv2.pdf)
-
-[Lista de calificaciones 3]({{ BASE_PATH}}/pages/stuff/2022b_progAv3.pdf)
-
-[Lista de calificaciones Primera Oportunidad]({{ BASE_PATH}}/pages/stuff/2022b_progAvA.pdf)
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
