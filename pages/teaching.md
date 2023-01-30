@@ -7,6 +7,7 @@ description: Asignaturas actuales
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
+            <li><a href="#2023-1">Cursos 2023-1</a></li>
             <li><a href="#2022-2">Cursos 2022-2</a></li>
             <li><a href="#2022-1">Cursos 2022-1</a></li>
             <li><a href="#2020">Cursos 2020</a></li>
@@ -14,6 +15,19 @@ description: Asignaturas actuales
         </ul>
     </div>
 </div>
+
+### <a name="2023-1"></a>Cursos 2023-1
+
+[Cálculo integral](https://enriquegarcia.xyz/pages/teaching/calcInt)
+
+[Matemáticas para Ingeniería 1](https://enriquegarcia.xyz/pages/teaching/matIng1)
+
+[Programación básica](https://enriquegarcia.xyz/pages/teaching/progBas)
+
+[Análisis de circuitos eléctricos](https://enriquegarcia.xyz/pages/teaching/circElec)
+
+[Visualización y control de procesos](https://enriquegarcia.xyz/pages/teaching/visCtrl)
+
 
 ### <a name="2022-2"></a>Cursos 2022-2
 
