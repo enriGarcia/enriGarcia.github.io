@@ -73,14 +73,14 @@ f(yz)= y**3*z**3 - 10*y**2*z**2 + 31*y*z - 30
 ```
 
 $$\begin{aligned}
-f(x-2)=x^{3}-16x^(2)+83x-140
+f(x-2)=x^{3}-16x^{2}+83x-140
 \end{aligned}$$
 
 Algunas veces hay que usar el método `expand()` para expandir las expresiones matemáticas.
 
 ```python
 from sympy import *
-x, y, z = symbols("x y z")
+x = symbols("x")
 f = x**3 - 10*x**2 + 31*x -30
 print("f(x-2)=", expand(f.subs(x, x-2)))
 ```
@@ -90,6 +90,28 @@ Resultado:
 ```bash
 f(x-2)= x**3 - 16*x**2 + 83*x - 140
 ```
+
+Dado \\( f(x)=x^{3}-3x+2 \\) obtener:
+
+$$\begin{aligned}
+f(-\frac{1}{2})
+\end{aligned}$$
+
+De manera opuesta a los números decimales, para el manejo de fracciones se utiliza la clase `Rational`, como se muestra en el siguiete script:
+
+```python
+from sympy import *
+x = symbols("x")
+f = x**3 - 3*x + 2
+print("f(-1/2)=", expand(f.subs(x, Rational(-1,2))))
+```
+
+Resultado:
+
+```bash
+f(-1/2)= 27/8
+```
+
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
