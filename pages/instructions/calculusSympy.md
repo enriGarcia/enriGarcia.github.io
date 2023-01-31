@@ -19,9 +19,15 @@ f(0)=-30
 \end{aligned}$$
 
 ```python
-# Here is some in python
-def foo():
-  print 'foo'
+from sympy import *
+x = symbols("x")
+f = x**3 - 10*x**2 + 31*x -30
+print("f(0)=", f.subs(x, 0))
+```
+
+Produce el siguiente resultado:
+```bash
+f(0)= -30
 ```
 
 
