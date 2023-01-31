@@ -34,7 +34,7 @@ Produce el siguiente resultado:
 f(0)= -30
 ```
 
-Para el caso de:
+Algunos otros ejemplos:
 
 $$\begin{aligned}
 f(-1)=-6f(6)
@@ -48,6 +48,48 @@ print("f(-1)=", f.subs(x, -1))
 print("-6f(6)=", -6*f.subs(x, 6))
 ```
 
+Resultado:
+
+```bash
+f(-1)= -72
+-6f(6)= -72
+```
+
+$$\begin{aligned}
+f(yz)=y^{3}z^{3}-10y^{2}z^{2}+31yz-30
+\end{aligned}$$
+
+```python
+from sympy import *
+x, y, z = symbols("x y z")
+f = x**3 - 10*x**2 + 31*x -30
+print("f(yz)=", f.subs(x, y*z))
+```
+
+Resultado:
+
+```bash
+f(yz)= y**3*z**3 - 10*y**2*z**2 + 31*y*z - 30
+```
+
+$$\begin{aligned}
+f(x-2)=x^{3}-16x^(2)+83x-140
+\end{aligned}$$
+
+Algunas veces hay que usar el método `expand()` para expandir las expresiones matemáticas.
+
+```python
+from sympy import *
+x, y, z = symbols("x y z")
+f = x**3 - 10*x**2 + 31*x -30
+print("f(x-2)=", expand(f.subs(x, x-2)))
+```
+
+Resultado:
+
+```bash
+f(x-2)= x**3 - 16*x**2 + 83*x - 140
+```
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
