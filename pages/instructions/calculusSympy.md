@@ -14,6 +14,8 @@ description: Tutorial de uso de Sympy
 
 En la primera tarea del curso de cálculo diferencial se nos pide que demostremos el resultado de algunas funciones usando el sistema de cómputo algebraico Sympy.
 
+## Ejemplo 1.
+
 Dado \\( f(x) = x^{3}-10x^{2}+31x-30 \\) demuestre que:
 
 $$\begin{aligned}
@@ -91,19 +93,21 @@ Resultado:
 f(x-2)= x**3 - 16*x**2 + 83*x - 140
 ```
 
+## Ejemplo 2.
+
 Dado \\( f(x)=x^{3}-3x+2 \\) obtener:
 
 $$\begin{aligned}
 f(-\frac{1}{2})
 \end{aligned}$$
 
-De manera opuesta a los números decimales, para el manejo de fracciones se utiliza la clase `Rational`, como se muestra en el siguiete script:
+De manera opuesta a los números decimales, para el manejo de fracciones se utiliza la clase `Rational`, como se muestra en el siguiente script:
 
 ```python
 from sympy import *
 x = symbols("x")
 f = x**3 - 3*x + 2
-print("f(-1/2)=", expand(f.subs(x, Rational(-1,2))))
+print("f(-1/2)=", f.subs(x, Rational(-1,2)))
 ```
 
 Resultado:
