@@ -14,7 +14,7 @@ description: Tutorial de uso de Sympy
 
 En la primera tarea del curso de cálculo diferencial se nos pide que demostremos el resultado de algunas funciones usando el sistema de cómputo algebraico Sympy.
 
-## Ejemplo 1.
+### Ejemplo 1.
 
 Dado \\( f(x) = x^{3}-10x^{2}+31x-30 \\) demuestre que:
 
@@ -93,7 +93,7 @@ Resultado:
 f(x-2)= x**3 - 16*x**2 + 83*x - 140
 ```
 
-## Ejemplo 2.
+### Ejemplo 2.
 
 Dado \\( f(x)=x^{3}-3x+2 \\) obtener:
 
