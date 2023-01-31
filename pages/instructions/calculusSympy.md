@@ -12,13 +12,7 @@ description: Tutorial de uso de Sympy
 # 1. Funciones
 [Volver al Índice](#índice)
 
-Dado
-
-$$\begin{aligned}
-f(x) = x^{3}-10x^{2}+31x-30
-\end{aligned}$$
-
-demuestre que:
+Dado \\( f(x) = x^{3}-10x^{2}+31x-30 \\) demuestre que:
 
 $$\begin{aligned}
 f(0)=-30
