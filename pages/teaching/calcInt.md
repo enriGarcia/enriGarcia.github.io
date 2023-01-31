@@ -41,13 +41,6 @@ Tema 2. Derivadas
 # Calificaciones por parcial 
 [Volver al Índice](#índice)
 
-text
-
-$$\begin{aligned}
-E = mc^2
-\end{aligned}$$
-
-text
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
 <!--
