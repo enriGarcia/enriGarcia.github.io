@@ -18,6 +18,11 @@ $$\begin{aligned}
 f(0)=-30
 \end{aligned}$$
 
+```python
+# Here is some in python
+def foo():
+  print 'foo'
+```
 
 
 
