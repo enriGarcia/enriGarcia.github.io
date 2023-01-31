@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Uso de Sympy para las materias de cálculo
+title: Uso de Sympy para la asignatura de cálculo
 description: Tutorial de uso de Sympy
 ---
 > Este tutorial es para usuarios que tengan instalado el módulo de Sympy. Si aún no lo ha instalado de click aquí.
@@ -98,7 +98,7 @@ f(x-2)= x**3 - 16*x**2 + 83*x - 140
 Dado \\( f(x)=x^{3}-3x+2 \\) obtener:
 
 $$\begin{aligned}
-f(-\frac{1}{2})
+f\left(-\frac{1}{2}\right)
 \end{aligned}$$
 
 De manera opuesta a los números decimales, para el manejo de fracciones se utiliza la clase `Rational`, como se muestra en el siguiente script:
@@ -116,6 +116,27 @@ Resultado:
 f(-1/2)= 27/8
 ```
 
+### Ejemplo 3.
+
+Si \\( f(x)=x^{3}-10x^{2}+31x-30 \\) y \\( \phi(x)=x^{4}-55x^{2}-210x-216 \\) demuestre que:
+
+$$\begin{aligned}
+f(0)+\phi(0)+246=0
+\end{aligned}$$
+
+```python
+from sympy import *
+x = symbols("x")
+f = x**3 - 10*x**2 + 31*x - 30
+phi = x**4 - 55*x**2 - 210*x - 216
+print(f.subs(x, 0) + phi.subs(x, 0) + 246)
+```
+
+Resultado:
+
+```bash
+0
+```
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 

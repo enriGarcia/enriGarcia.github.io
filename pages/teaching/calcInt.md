@@ -24,10 +24,10 @@ vimeoId2: 763841789
 |Derivadas                    |[Ejercicio 3 ]({{ BASE_PATH}}/pages/assignments/calcInt_ex_03.pdf)|
 |Integrales                   |[Ejercicio 4 ]({{ BASE_PATH}}/pages/assignments/calcInt_ex_04.pdf)|
 
-# Instalación del software
+# Uso de Sympy para la entrega de prácticas
 [Volver al Índice](#índice)
 
-- El software a utilizar es MAPLE.
+- El software a utilizar es Sympy, consulte [cómo realizar la instalación](https://enriquegarcia.xyz/pages/instructions/installPython) y [cómo usarlo](https://enriquegarcia.xyz/pages/instructions/calculusSympy).
 
 # Videos de las clases
 [Volver al Índice](#índice)
