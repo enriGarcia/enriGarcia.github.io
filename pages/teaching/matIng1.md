@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cálculo Diferencial
+title: Matemáticas para Ingeniería 1
 description: Listado de prácticas
 ---
 >  La asignatura contribuye a desarrollar un pensamiento lógico-matemático al perfil del estudiante y aporta las herramientas básicas para introducirse al estudio del cálculo y su aplicación, así como las bases para el modelado matemático. Además, proporciona herramientas que permiten modelar fenómenos de contexto.
@@ -17,27 +17,18 @@ description: Listado de prácticas
 
 |Tema                         |Ejercicio       |
 |-----------------------------|:--------------:|
-|Funciones                    |[Ejercicio 1 ]({{ BASE_PATH}}/pages/assignments/calcDif_ex_01.pdf)|
-|Límites y continuidad        |[Ejercicio 2 ]({{ BASE_PATH}}/pages/assignments/calcDif_ex_02.pdf)|
-|Derivadas                    |[Ejercicio 3 ]({{ BASE_PATH}}/pages/assignments/calcDif_ex_03.pdf)|
-|Derivadas                    |[Ejercicio 4 ]({{ BASE_PATH}}/pages/assignments/calcDif_ex_04.pdf)|
-|Derivadas                    |[Ejercicio 5 ]({{ BASE_PATH}}/pages/assignments/calcDif_ex_05.pdf)|
-|Derivadas                    |[Ejercicio 6 ]({{ BASE_PATH}}/pages/assignments/calcDif_ex_06.pdf)|
-|Derivadas                    |[Ejercicio 7 ]({{ BASE_PATH}}/pages/assignments/calcDif_ex_07.pdf)|
-|Aplicaciones de la derivada  |[Ejercicio 8 ]({{ BASE_PATH}}/pages/assignments/calcDif_ex_08.pdf)|
+|Matrices                     |[Ejercicio 1 ]({{ BASE_PATH}}/pages/assignments/matIng_ex_01.pdf)|
 
 # Instalación del software
 [Volver al Índice](#índice)
 
-- El software a utilizar es MAPLE.
+- El software a utilizar es Python + Numpy.
 
 # Videos de las clases
 [Volver al Índice](#índice)
 
 # Calificaciones
 [Volver al Índice](#índice)
-
-[Lista de calificación final]({{ BASE_PATH}}/pages/stuff/2022b_calcDifFinal.pdf)
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
