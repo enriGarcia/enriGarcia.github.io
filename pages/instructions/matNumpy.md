@@ -27,6 +27,10 @@ B=\begin{bmatrix}
 7 & 1 & -3\\
 2 & 0 & 6 
 \end{bmatrix}
+C=\begin{bmatrix}
+-3 & 2\\
+1 & 7
+\end{bmatrix}
 E=\begin{bmatrix}
  0& 1\\
  1& 0\\
@@ -79,7 +83,43 @@ C**2=
  [ 1 49]]
 ```
 
-Algunos otros ejemplos:
+### Ejemplo 2.
+
+Dado:
+
+$$\begin{aligned}
+F=\begin{bmatrix}
+5 & 19 & 3 & -1 \\
+2 & -4 & -3&  2 \\
+-10 & 0 & 7 & -8
+\end{bmatrix}
+\end{aligned}$$
+
+Encuentre:
+
+$$\begin{aligned}
+A^{T}
+\end{aligned}$$
+
+El siguiente script de Python nos ayuda a calcular el resultado:
+
+```python
+import numpy as np
+
+F = np.array([[5, 19, 3, -1], [2, -4, -3, 2], [-10, 0, 7, -8]])
+
+print("Transpuesta de F:")
+print(np.transpose(F))
+```
+
+Produce el siguiente resultado:
+```bash
+Transpuesta de F:
+[[  5   2 -10]
+ [ 19  -4   0]
+ [  3  -3   7]
+ [ -1   2  -8]]
+```
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
