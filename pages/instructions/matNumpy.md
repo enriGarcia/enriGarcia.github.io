@@ -41,21 +41,32 @@ A+B
 \end{aligned}$$
 
 $$\begin{aligned}
-5B-AE
+5AE
 \end{aligned}$$
 
 El siguiente script de Python nos ayuda a calcular el resultado:
 
 ```python
-from sympy import *
-x = symbols("x")
-f = x**3 - 10*x**2 + 31*x -30
-print("f(0)=", f.subs(x, 0))
+import numpy as np
+
+A = np.array([[-1, 2, 0], [4, 5, 3]])
+B = np.array([[7, 1, -3], [2, 0, 6]])
+E = np.array([[0, 1], [1, 0], [0, 3]])
+
+print("A+B=")
+print(A+B)
+print("5*A*E=")
+print(5*np.matmul(A, E))
 ```
 
 Produce el siguiente resultado:
 ```bash
-f(0)= -30
+A+B=
+[[ 6  3 -3]
+ [ 6  5  9]]
+5*A*E=
+[[10 -5]
+ [25 65]]
 ```
 
 Algunos otros ejemplos:
