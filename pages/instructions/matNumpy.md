@@ -9,10 +9,10 @@ description: Tutorial de uso de Numpy
 - [1. Funciones](#1.-funciones)
 
 
-# 1. Funciones
+# 1. Operaciones matriciales básicas
 [Volver al Índice](#índice)
 
-En la primera tarea del curso de Matemáticas para Ingeniería 1 se nos pide que demostremos el resultado de algunas funciones usando el sistema de cómputo científico Numpy.
+En la primera tarea del curso de Matemáticas para Ingeniería 1 se nos pide que demostremos el resultado de algunas operaciones matriciales usando el sistema de cómputo científico Numpy.
 
 ### Ejemplo 1.
 

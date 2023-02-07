@@ -3,7 +3,7 @@ layout: page
 title: Matemáticas para Ingeniería 1
 description: Listado de prácticas
 ---
->  La asignatura contribuye a desarrollar un pensamiento lógico-matemático al perfil del estudiante y aporta las herramientas básicas para introducirse al estudio del cálculo y su aplicación, así como las bases para el modelado matemático. Además, proporciona herramientas que permiten modelar fenómenos de contexto.
+> El alumno resolverá problemas de ingeniería a través de las herramientas y métodos de cálculo multivariable y vectorial para contribuir a su solución.
 
 # Índice
 - [Lista de prácticas](#lista-de-prácticas)
@@ -22,7 +22,8 @@ description: Listado de prácticas
 # Instalación del software
 [Volver al Índice](#índice)
 
-- El software a utilizar es Python + Numpy.
+- El software a utilizar es Numpy, consulte [cómo realizar la instalación](https://enriquegarcia.xyz/pages/instructions/installPython) y [cómo usarlo](https://enriquegarcia.xyz/pages/instructions/matNumpy).
+
 
 # Videos de las clases
 [Volver al Índice](#índice)
