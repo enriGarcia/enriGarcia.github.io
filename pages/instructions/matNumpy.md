@@ -44,6 +44,10 @@ $$\begin{aligned}
 5AE
 \end{aligned}$$
 
+$$\begin{aligned}
+C^{2}
+\end{aligned}$$
+
 El siguiente script de Python nos ayuda a calcular el resultado:
 
 ```python
@@ -51,12 +55,15 @@ import numpy as np
 
 A = np.array([[-1, 2, 0], [4, 5, 3]])
 B = np.array([[7, 1, -3], [2, 0, 6]])
+C = np.array([[-3, 3], [1, 7]])
 E = np.array([[0, 1], [1, 0], [0, 3]])
 
 print("A+B=")
 print(A+B)
 print("5*A*E=")
 print(5*np.matmul(A, E))
+print("C**2=")
+print(np.power(C, 2))
 ```
 
 Produce el siguiente resultado:
@@ -67,6 +74,9 @@ A+B=
 5*A*E=
 [[10 -5]
  [25 65]]
+C**2=
+[[ 9  9]
+ [ 1 49]]
 ```
 
 Algunos otros ejemplos:
