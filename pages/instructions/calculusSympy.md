@@ -7,6 +7,7 @@ description: Tutorial de uso de Sympy
 
 # Índice
 - [1. Funciones](#1.-funciones)
+- [2. Límites](#2.-límites)
 
 
 # 1. Funciones
@@ -138,6 +139,33 @@ Resultado:
 0
 ```
 
+# 2. Límites
+[Volver al Índice](#índice)
+
+En la primera tarea del curso de cálculo diferencial se nos pide que demostremos el resultado de algunas funciones usando el sistema de cómputo algebraico Sympy.
+
+### Ejemplo 1.
+
+Demostrar cada una de las siguientes igualdades:
+
+$$\begin{aligned}
+\lim_{x\to\infty} \frac{5-2x^{2}}{3x+5x^{2}} = -\frac{2}{5}
+\end{aligned}$$
+
+El siguiente script de Python nos ayuda a calcular el resultado:
+
+```python
+from sympy import *
+x = symbols("x")
+f = (5 - 2*x**2)/(3*x+5*x**2)
+lim = limit(f, x, oo)
+print("El límite de la función que tiende a oo es {}".format(lim))
+```
+
+Produce el siguiente resultado:
+```bash
+El límite de la función que tiende a oo es -2/5
+```
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
 <!--
