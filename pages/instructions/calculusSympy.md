@@ -6,8 +6,8 @@ description: Tutorial de uso de Sympy
 > Este tutorial es para usuarios que tengan instalado el módulo de Sympy. Si aún no lo ha instalado de click aquí.
 
 # Índice
-- [1. Funciones](#1.-funciones)
-- [2. Límites](#2.-límites)
+- [1. Funciones](#1. funciones)
+- [2. Límites](#2. límites)
 
 
 # 1. Funciones
@@ -142,7 +142,7 @@ Resultado:
 # 2. Límites
 [Volver al Índice](#índice)
 
-En la primera tarea del curso de cálculo diferencial se nos pide que demostremos el resultado de algunas funciones usando el sistema de cómputo algebraico Sympy.
+En la segunda tarea del curso de cálculo diferencial se nos pide que demostremos el resultado de algunos límites usando el sistema de cómputo algebraico Sympy.
 
 ### Ejemplo 1.
 
@@ -166,6 +166,28 @@ Produce el siguiente resultado:
 ```bash
 El límite de la función que tiende a oo es -2/5
 ```
+
+### Ejemplo 2.
+
+$$\begin{aligned}
+\lim_{x\to\infty} \frac{6x^{3}-5x^{2}+3}{2x^{3}+4x-7} = 3
+\end{aligned}$$
+
+El siguiente script de Python nos ayuda a calcular el resultado:
+
+```python
+from sympy import * 
+x = symbols("x") 
+f = (6*x**3 - 5*x**2 + 3)/(2*x**3 + 4*x - 7) 
+lim = limit(f, x, oo) 
+print("El límite de la función que tiende a oo es {}".format(lim)) 
+```
+
+Produce el siguiente resultado:
+```bash
+El límite de la función que tiende a oo es -2/5
+```
+
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
 <!--
