@@ -6,11 +6,11 @@ description: Tutorial de uso de Sympy
 > Este tutorial es para usuarios que tengan instalado el módulo de Sympy. Si aún no lo ha instalado de click aquí.
 
 # Índice
-- [1.Funciones](#1.funciones)
-- [2.Límites](#2.límites)
+- [Funciones](#funciones)
+- [Límites](#límites)
 
 
-# 1.Funciones
+# Funciones
 [Volver al Índice](#índice)
 
 En la primera tarea del curso de cálculo diferencial se nos pide que demostremos el resultado de algunas funciones usando el sistema de cómputo algebraico Sympy.
@@ -139,12 +139,12 @@ Resultado:
 0
 ```
 
-# 2.Límites
+# Límites
 [Volver al Índice](#índice)
 
 En la segunda tarea del curso de cálculo diferencial se nos pide que demostremos el resultado de algunos límites usando el sistema de cómputo algebraico Sympy.
 
-### Ejemplo 1.
+### Ejemplo 4.
 
 Demostrar cada una de las siguientes igualdades:
 
@@ -167,7 +167,7 @@ Produce el siguiente resultado:
 El límite de la función que tiende a oo es -2/5
 ```
 
-### Ejemplo 2.
+### Ejemplo 5.
 
 $$\begin{aligned}
 \lim_{x\to\infty} \frac{6x^{3}-5x^{2}+3}{2x^{3}+4x-7} = 3
@@ -187,7 +187,7 @@ Produce el siguiente resultado:
 ```bash
 El límite de la función que tiende a oo es 3
 ```
-### Ejemplo 3.
+### Ejemplo 6.
 
 $$\begin{aligned}
 \lim_{k\to 0} \frac{\left(2z+3k\right)^{3}-4k^{2}z}{2z\left(2z-k\right)^{2}} = 1
