@@ -6,11 +6,11 @@ description: Tutorial de uso de Sympy
 > Este tutorial es para usuarios que tengan instalado el módulo de Sympy. Si aún no lo ha instalado de click aquí.
 
 # Índice
-- [1. Funciones](#1. funciones)
-- [2. Límites](#2. límites)
+- [1.Funciones](#1.funciones)
+- [2.Límites](#2.límites)
 
 
-# 1. Funciones
+# 1.Funciones
 [Volver al Índice](#índice)
 
 En la primera tarea del curso de cálculo diferencial se nos pide que demostremos el resultado de algunas funciones usando el sistema de cómputo algebraico Sympy.
@@ -139,7 +139,7 @@ Resultado:
 0
 ```
 
-# 2. Límites
+# 2.Límites
 [Volver al Índice](#índice)
 
 En la segunda tarea del curso de cálculo diferencial se nos pide que demostremos el resultado de algunos límites usando el sistema de cómputo algebraico Sympy.
@@ -185,8 +185,29 @@ print("El límite de la función que tiende a oo es {}".format(lim))
 
 Produce el siguiente resultado:
 ```bash
-El límite de la función que tiende a oo es -2/5
+El límite de la función que tiende a oo es 3
 ```
+### Ejemplo 3.
+
+$$\begin{aligned}
+\lim_{k\to 0} \frac{\left(2z+3k\right)^{3}-4k^{2}z}{2z\left(2z-k\right)^{2}} = 1
+\end{aligned}$$
+
+El siguiente script de Python nos ayuda a calcular el resultado:
+
+```python
+from sympy import *
+z, k = symbols("z, k")
+f = ((2*z + 3*k)**3 - 4*z*k**2)/(2*z*(2*z - k)**2)
+lim = limit(f, k, 0)
+print("El límite de la función que tiende a 0 es {}".format(lim))
+```
+
+Produce el siguiente resultado:
+```bash
+El límite de la función que tiende a 0 es 1
+```
+
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
