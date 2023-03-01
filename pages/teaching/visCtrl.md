@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Programación Avanzada
-description: Instalación de hardware y software para el microcontrolador ATMEGA328P.
+title: Visualización y control de procesos
+description: Listado de prácticas
 ---
-> Esta asignatura aporta al perfil del estudiante la capacidad de análisis, desarrollo e implementación de software de aplicación orientado a objetos y visual cumpliendo con estándares de calidad, con el fin de apoyar la productividad y competitividad de los sistemas mecatrónicos.
+> Esta asignatura aporta al perfil del Ingeniero Mecatrónico la capacidad de integrar sistemas de visualización y control de variables de proceso, para mejorar la operación de procesos automáticos y la adquisición de datos aplicando técnicas de Inteligencia Artificial mediante el desarrollo y programación de modelos matemáticos, estadísticos y de simulación a la solución de problemas complejos de control automático, robótica, toma de decisiones, clasificación y minería de datos.
 
 # Índice
 - [Exámenes](#exámenes)
@@ -19,37 +19,34 @@ description: Instalación de hardware y software para el microcontrolador ATMEGA
 # Lista de ejercicios
 [Volver al Índice](#índice)
 
-|Tema              |Ejercicio       |Solución interactiva|
-|------------------|:--------------:|-------------------:|
-|Funciones         |[Ejercicio 1   ]({{ BASE_PATH}}/pages/assignments/progAv_ex_001.pdf)|[Solución](https://codehs.com/sandbox/enrigarcia/ex-081/)|
-|Funciones         |[Ejercicio 2   ]({{ BASE_PATH}}/pages/assignments/progAv_ex_002.pdf)|[Solución](https://codehs.com/sandbox/enrigarcia/ex-082/)|
-|Funciones         |[Ejercicio 3   ]({{ BASE_PATH}}/pages/assignments/progAv_ex_003.pdf)|[Solución](https://codehs.com/sandbox/enrigarcia/ex-083/)|
-|Funciones         |[Ejercicio 4   ]({{ BASE_PATH}}/pages/assignments/progAv_ex_004.pdf)|[Solución](https://codehs.com/sandbox/enrigarcia/ex-084/)|
-|Funciones         |[Ejercicio 5   ]({{ BASE_PATH}}/pages/assignments/progAv_ex_005.pdf)|[Solución](https://codehs.com/sandbox/enrigarcia/ex-085/)|
-|Funciones         |[Ejercicio 6   ]({{ BASE_PATH}}/pages/assignments/progAv_ex_006.pdf)|[Solución](https://codehs.com/sandbox/enrigarcia/ex-089/)|
-|Funciones         |[Ejercicio 7   ]({{ BASE_PATH}}/pages/assignments/progAv_ex_007.pdf)|[Solución](https://codehs.com/sandbox/enrigarcia/ex-092/)|
-|Funciones         |[Ejercicio 8   ]({{ BASE_PATH}}/pages/assignments/progAv_ex_008.pdf)|[Solución](https://codehs.com/sandbox/enrigarcia/ex-094/)|
-|Listas            |[Ejercicio 11  ]({{ BASE_PATH}}/pages/assignments/progAv_ex_011.pdf)|[Solución](https://codehs.com/sandbox/enrigarcia/ex-104/)|
-|Listas            |[Ejercicio 12  ]({{ BASE_PATH}}/pages/assignments/progAv_ex_012.pdf)|[Solución](https://codehs.com/sandbox/enrigarcia/ex-105/)|
-|Listas            |[Ejercicio 13  ]({{ BASE_PATH}}/pages/assignments/progAv_ex_013.pdf)|[Solución](https://codehs.com/sandbox/enrigarcia/ex-106/)|
-|Listas            |[Ejercicio 14  ]({{ BASE_PATH}}/pages/assignments/progAv_ex_014.pdf)|[Solución](https://codehs.com/sandbox/enrigarcia/ex-107/)|
+|Tema                         |Ejercicio       |
+|-----------------------------|:--------------:|
+|Interfases humano-máquina    |[Práctica 1    ]({{ BASE_PATH}}/pages/assignments/visCtrl_ex_01.pdf)|
+|Interfases humano-máquina    |[Práctica 2    ]({{ BASE_PATH}}/pages/assignments/visCtrl_ex_02.pdf)|
+|Interfases humano-máquina    |[Práctica 3    ]({{ BASE_PATH}}/pages/assignments/visCtrl_ex_03.pdf)|
+|Interfases humano-máquina    |[Práctica 4    ]({{ BASE_PATH}}/pages/assignments/visCtrl_ex_04.pdf)|
+|Interfases humano-máquina    |[Práctica 5    ]({{ BASE_PATH}}/pages/assignments/visCtrl_ex_05.pdf)|
+|Interfases humano-máquina    |[Práctica 6    ]({{ BASE_PATH}}/pages/assignments/visCtrl_ex_06.pdf)|
+|Interfases humano-máquina    |[Práctica 7    ]({{ BASE_PATH}}/pages/assignments/visCtrl_ex_07.pdf)|
+|Interfases humano-máquina    |[Práctica 8    ]({{ BASE_PATH}}/pages/assignments/visCtrl_ex_08.pdf)|
+|Interfases humano-máquina    |[Práctica 9    ]({{ BASE_PATH}}/pages/assignments/visCtrl_ex_09.pdf)|
+|Interfases humano-máquina    |[Práctica 10   ]({{ BASE_PATH}}/pages/assignments/visCtrl_ex_10.pdf)|
+|Interfases humano-máquina    |[Práctica 11   ]({{ BASE_PATH}}/pages/assignments/visCtrl_ex_11.pdf)|
+|Instrumentación virtual      |[Práctica 12   ]({{ BASE_PATH}}/pages/assignments/visCtrl_ex_12.pdf)|
+|Instrumentación virtual      |[Práctica 13   ]({{ BASE_PATH}}/pages/assignments/visCtrl_ex_13.pdf)|
+
 
 
 # Instalación del software
 [Volver al Índice](#índice)
 
-Cada paquetería de software que usamos en la clase esta disponible de manera gratuita en la web. Generalmente ocupamos:
-- Anaconda Python 3.x (3.8 o superior), el cual puede ser descargado gratuitamente desde [https://www.anaconda.com/products/individual]. 
-- Visual Studio Code, el cual puede ser descargado gratuitamente desde [https://code.visualstudio.com/].
-
+Descarga aquí
 
 # Videos de las clases
 [Volver al Índice](#índice)
 
 # Calificaciones
 [Volver al Índice](#índice)
-
-[Lista de calificación final]({{ BASE_PATH}}/pages/stuff/2022b_progAvFinal.pdf)
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
