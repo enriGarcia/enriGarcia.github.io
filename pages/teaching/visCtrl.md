@@ -40,7 +40,7 @@ description: Listado de prácticas
 # Instalación del software
 [Volver al Índice](#índice)
 
-Descarga aquí
+Descarga la [Versión de 32-bit](https://drive.google.com/file/d/1bqZlgeSik-SnEJ50PK6C9L490O9-MtYf/view?usp=sharing), o la [Versión de 64-bit](https://drive.google.com/file/d/1LYf8Fg_O3TuI5xQ3vn7igN9FRakN-dh2/view?usp=sharing), o la [Versión estudiantil](https://drive.google.com/file/d/1FrTv5Xs0NIQDwF0AvwNihOgQo_kQdend/view?usp=sharing), y las [Librerías de comunicación](https://drive.google.com/file/d/1414J41nIHIorSE4DrgywElB8cxLSk4L6/view?usp=sharing).
 
 # Videos de las clases
 [Volver al Índice](#índice)
