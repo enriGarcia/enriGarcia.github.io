@@ -3,7 +3,7 @@ layout: page
 title: Análisis de circuitos eléctricos
 description: Listado de prácticas
 ---
-> La asignatura esta orientada a estudiantes con poca o ninguna experiencia en programación, aportando al estudiante la capacidad de desarrollar un pensamiento lógico y la identificación de cómo la computación puede usarse para resolver problemas, estableciendo confianza en el estudiante para que escriba pequeños scripts que le permitan completar objetivos prácticos. En la clase se utiliza el lenguaje de programación Python 3.9.
+> Esta asignatura aporta al perfil del Ingeniero Mecatrónico la capacidad para analizar, simular y construir circuitos eléctricos de corriente directa y alterna, para su uso posterior en sistemas eléctricos, electrónicos y de control en procesos industriales.
 
 # Índice
 - [Lista de prácticas](#lista-de-prácticas)
