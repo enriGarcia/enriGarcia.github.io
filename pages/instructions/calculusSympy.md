@@ -8,6 +8,7 @@ description: Tutorial de uso de Sympy
 # Índice
 - [Funciones](#funciones)
 - [Límites](#límites)
+- [Derivadas](#derivadas)
 
 
 # Funciones
@@ -208,6 +209,33 @@ Produce el siguiente resultado:
 El límite de la función que tiende a 0 es 1
 ```
 
+# Derivadas
+[Volver al Índice](#índice)
+
+En la tercera tarea del curso de cálculo diferencial se nos pide que demostremos el resultado de algunos límites usando el sistema de cómputo algebraico Sympy.
+
+### Ejemplo 7.
+
+Hallar la derivada de las siguientes funciones:
+
+$$\begin{aligned}
+y=2-3x
+\end{aligned}$$
+
+El siguiente script de Python nos ayuda a calcular el resultado:
+
+```python
+from sympy import *
+x, y = symbols('x y')
+init_printing(use_unicode=True)
+
+print(diff(2-3*x, x))
+```
+
+Produce el siguiente resultado:
+```bash
+-3
+```
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
