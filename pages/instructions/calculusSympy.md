@@ -228,7 +228,6 @@ El siguiente script de Python nos ayuda a calcular el resultado:
 from sympy import *
 x, y = symbols('x y')
 init_printing(use_unicode=True)
-
 print(diff(2-3*x, x))
 ```
 
@@ -236,6 +235,34 @@ Produce el siguiente resultado:
 ```bash
 -3
 ```
+
+### Ejemplo 8.
+
+$$\begin{aligned}
+u=4v^{2}+2v^{3}
+\end{aligned}$$
+
+El siguiente script de Python nos ayuda a calcular el resultado:
+
+```python
+from sympy import *
+u, v = symbols('u v')
+init_printing(use_unicode=True)
+print(diff(4*v**2 + 2*v**3, v))
+```
+
+Produce el siguiente resultado:
+```bash
+6*v**2 + 8*v
+```
+
+### Ejemplo 9.
+
+$$\begin{aligned}
+y=\frac{x^{2}}{4-x^{2}}
+\end{aligned}$$
+
+La mayoria de las veces no es visualmente agradable observar el resultado de las ecuaciones en la Terminal, por lo que es mejor en estos casos usar un Jupyter Notebook, para este ejemplo [descarguelo aquí]({{ BASE_PATH}}/pages/stuff/03_derivadas.ipynb).
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
