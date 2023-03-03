@@ -262,7 +262,7 @@ $$\begin{aligned}
 y=\frac{x^{2}}{4-x^{2}}
 \end{aligned}$$
 
-La mayoria de las veces no es visualmente agradable observar el resultado de las ecuaciones en la Terminal, por lo que es mejor en estos casos usar un Jupyter Notebook, para este ejemplo [descarguelo aquí]({{ BASE_PATH}}/pages/stuff/03_derivadas.ipynb).
+La mayoria de las veces no es visualmente agradable observar el resultado de las ecuaciones en la Terminal, por lo que es mejor en estos casos usar un Jupyter Notebook, para este ejemplo [descarguelo aquí](https://nbviewer.org/urls/enriquegarcia.xyz/pages/stuff/03_derivadas.ipynb).
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
