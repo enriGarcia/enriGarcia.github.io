@@ -18,6 +18,7 @@ description: Listado de prácticas
 |Tema                         |Ejercicio       |
 |-----------------------------|:--------------:|
 |Matrices                     |[Ejercicio 1 ]({{ BASE_PATH}}/pages/assignments/matIng_ex_01.pdf)|
+|Sistemas de ecuaciones       |[Ejercicio 2 ]({{ BASE_PATH}}/pages/assignments/matIng_ex_02.pdf)|
 
 # Instalación del software
 [Volver al Índice](#índice)
