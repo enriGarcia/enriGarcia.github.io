@@ -48,6 +48,8 @@ Descarga la [Versión de 32-bit](https://drive.google.com/file/d/1bqZlgeSik-SnEJ
 # Calificaciones
 [Volver al Índice](#índice)
 
+- Calificaciones de [Primera Unidad]({{ BASE_PATH}}/pages/stuff/u1_vsctrl.pdf)
+
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
