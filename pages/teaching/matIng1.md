@@ -19,6 +19,8 @@ description: Listado de prácticas
 |-----------------------------|:--------------:|
 |Matrices                     |[Ejercicio 1 ]({{ BASE_PATH}}/pages/assignments/matIng_ex_01.pdf)|
 |Sistemas de ecuaciones       |[Ejercicio 2 ]({{ BASE_PATH}}/pages/assignments/matIng_ex_02.pdf)|
+|Determinantes                |[Ejercicio 3 ]({{ BASE_PATH}}/pages/assignments/matIng_ex_03.pdf)|
+|Matriz Inversa               |[Ejercicio 4 ]({{ BASE_PATH}}/pages/assignments/matIng_ex_04.pdf)|
 
 # Instalación del software
 [Volver al Índice](#índice)
