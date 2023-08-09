@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Programación Avanzada
-description: Instalación de hardware y software para el microcontrolador ATMEGA328P.
+description: Listado de prácticas
 ---
 > Esta asignatura aporta al perfil del estudiante la capacidad de análisis, desarrollo e implementación de software de aplicación orientado a objetos y visual cumpliendo con estándares de calidad, con el fin de apoyar la productividad y competitividad de los sistemas mecatrónicos.
 
@@ -48,8 +48,6 @@ Cada paquetería de software que usamos en la clase esta disponible de manera gr
 
 # Calificaciones
 [Volver al Índice](#índice)
-
-[Lista de calificación final]({{ BASE_PATH}}/pages/stuff/2022b_progAvFinal.pdf)
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->

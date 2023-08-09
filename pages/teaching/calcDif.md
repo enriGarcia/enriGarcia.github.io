@@ -1,30 +1,30 @@
 ---
 layout: page
 title: Cálculo Diferencial
-description: Listado de prácticas
+description: Listado de actividades
 ---
 >  La asignatura contribuye a desarrollar un pensamiento lógico-matemático al perfil del estudiante y aporta las herramientas básicas para introducirse al estudio del cálculo y su aplicación, así como las bases para el modelado matemático. Además, proporciona herramientas que permiten modelar fenómenos de contexto.
 
 # Índice
-- [Lista de prácticas](#lista-de-prácticas)
+- [Lista de actividades](#lista-de-actividades)
 - [Instalación del software](#instalación-del-software)
 - [Videos de las clases](#videos-de-las-clases)
 - [Calificaciones](#calificaciones)
+- [Bibliografía](#bibliografía)
 
-
-# Lista de prácticas
+# Lista de actividades
 [Volver al Índice](#índice)
 
-|Tema                         |Ejercicio       |
+|Tema                         |Actividad       |
 |-----------------------------|:--------------:|
-|Funciones                    |[Ejercicio 1 ]({{ BASE_PATH}}/pages/assignments/calcDif_ex_01.pdf)|
-|Límites y continuidad        |[Ejercicio 2 ]({{ BASE_PATH}}/pages/assignments/calcDif_ex_02.pdf)|
-|Derivadas                    |[Ejercicio 3 ]({{ BASE_PATH}}/pages/assignments/calcDif_ex_03.pdf)|
-|Derivadas                    |[Ejercicio 4 ]({{ BASE_PATH}}/pages/assignments/calcDif_ex_04.pdf)|
-|Derivadas                    |[Ejercicio 5 ]({{ BASE_PATH}}/pages/assignments/calcDif_ex_05.pdf)|
-|Derivadas                    |[Ejercicio 6 ]({{ BASE_PATH}}/pages/assignments/calcDif_ex_06.pdf)|
-|Derivadas                    |[Ejercicio 7 ]({{ BASE_PATH}}/pages/assignments/calcDif_ex_07.pdf)|
-|Aplicaciones de la derivada  |[Ejercicio 8 ]({{ BASE_PATH}}/pages/assignments/calcDif_ex_08.pdf)|
+|Funciones                    |[Actividad 1 ]({{ BASE_PATH}}/pages/assignments/calcDif/hw_01_calcDif.pdf)|
+|Límites y continuidad        |[Actividad 2 ]({{ BASE_PATH}}/pages/assignments/calcDif/hw_02_calcDif.pdf)|
+|Derivadas                    |[Actividad 3 ]({{ BASE_PATH}}/pages/assignments/calcDif/hw_03_calcDif.pdf)|
+|Derivadas                    |[Actividad 4 ]({{ BASE_PATH}}/pages/assignments/calcDif/hw_04_calcDif.pdf)|
+|Derivadas                    |[Actividad 5 ]({{ BASE_PATH}}/pages/assignments/calcDif/hw_05_calcDif.pdf)|
+|Derivadas                    |[Actividad 6 ]({{ BASE_PATH}}/pages/assignments/calcDif/hw_06_calcDif.pdf)|
+|Derivadas                    |[Actividad 7 ]({{ BASE_PATH}}/pages/assignments/calcDif/hw_07_calcDif.pdf)|
+|Aplicaciones de la derivada  |[Actividad 8 ]({{ BASE_PATH}}/pages/assignments/calcDif/hw_08_calcDif.pdf)|
 
 # Instalación del software
 [Volver al Índice](#índice)
@@ -37,7 +37,10 @@ description: Listado de prácticas
 # Calificaciones
 [Volver al Índice](#índice)
 
-[Lista de calificación final]({{ BASE_PATH}}/pages/stuff/2022b_calcDifFinal.pdf)
+# Bibliografía
+[Volver al Índice](#índice)
+
+> Granville, W. A. (2012). Cálculo diferencial e integral. México: Limusa.
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
