@@ -10,6 +10,7 @@ description: Listado de prácticas
 - [Instalación del software](#instalación-del-software)
 - [Videos de las clases](#videos-de-las-clases)
 - [Calificaciones](#calificaciones)
+- [Bibliografía](#bibliografía)
 
 
 # Lista de prácticas
@@ -37,7 +38,9 @@ description: Listado de prácticas
 # Calificaciones
 [Volver al Índice](#índice)
 
-[Lista de calificación final]({{ BASE_PATH}}/pages/stuff/2022b_calcDifFinal.pdf)
+# Bibliografía
+[Volver al Índice](#índice)
+Spong, M. W., Hutchinson, S., Vidyasagar, M. (2020). Robot Modeling and Control. United Kingdom: Wiley.
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
