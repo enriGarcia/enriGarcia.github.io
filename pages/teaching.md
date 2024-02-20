@@ -7,6 +7,7 @@ description: Asignaturas actuales
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
+            <li><a href="#2024-1">Cursos 2024-1</a></li>
             <li><a href="#2023-2">Cursos 2023-2</a></li>
             <li><a href="#2023-1">Cursos 2023-1</a></li>
             <li><a href="#2022-2">Cursos 2022-2</a></li>
@@ -16,6 +17,10 @@ description: Asignaturas actuales
         </ul>
     </div>
 </div>
+
+### <a name="2024-1"></a>Cursos 2024-1
+
+[Matemáticas para ingeniería 1](https://enriquegarcia.xyz/pages/teaching/matIng1)
 
 ### <a name="2023-2"></a>Cursos 2023-2
 
