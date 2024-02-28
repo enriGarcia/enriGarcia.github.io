@@ -22,6 +22,8 @@ description: Asignaturas actuales
 
 [Matemáticas para ingeniería 1](https://enriquegarcia.xyz/pages/teaching/matIng1)
 
+[Programación básica](https://enriquegarcia.xyz/pages/teaching/progBas)
+
 ### <a name="2023-2"></a>Cursos 2023-2
 
 [Cálculo diferencial](https://enriquegarcia.xyz/pages/teaching/calcDif)

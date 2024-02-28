@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Programación Básica
-description: Instalación de hardware y software para el microcontrolador ATMEGA328P.
+description: Página de la asignatura de Programación Básica.
 ---
 > La asignatura esta orientada a estudiantes con poca o ninguna experiencia en programación, aportando al estudiante la capacidad de desarrollar un pensamiento lógico y la identificación de cómo la computación puede usarse para resolver problemas, estableciendo confianza en el estudiante para que escriba pequeños scripts que le permitan completar objetivos prácticos. En la clase se utiliza el lenguaje de programación Python 3.9.
 
@@ -14,8 +14,6 @@ description: Instalación de hardware y software para el microcontrolador ATMEGA
 
 # Exámenes
 [Volver al Índice](#índice)
-
-- Resolver el [Examen de la Unidad 1](https://forms.office.com/Pages/ResponsePage.aspx?id=y1jm2P_6VUyB-AXvC5vUbKT3YTvvN1tKvjmLKqHNWhZUOEVJUzdHWEc0OElIQjY5SURCWEVZM1M4NC4u) antes de las 15:00hrs del 31 de marzo de 2023. Necesita entrar al examen con su correo oficial (@huixquilucan.tecnm.mx). El examen sólo puede ser contestado UNA SOLA VEZ, por lo que no es posible que vuelva a entrar en el, esto quiere decir que cuando lo empiece tiene que terminarlo en un sólo intento.
 
 # Lista de ejercicios
 [Volver al Índice](#índice)
@@ -108,22 +106,20 @@ description: Instalación de hardware y software para el microcontrolador ATMEGA
 |Funciones         |[Ejercicio 84   ]({{ BASE_PATH}}/pages/assignments/progbas_ex_084.pdf)|[Solución](https://codehs.com/sandbox/enrigarcia/ex-084/)|
 |Funciones         |[Ejercicio 85   ]({{ BASE_PATH}}/pages/assignments/progbas_ex_085.pdf)|[Solución](https://codehs.com/sandbox/enrigarcia/ex-085/)|
 
-
 # Instalación del software
 [Volver al Índice](#índice)
 
 Cada paquetería de software que usamos en la clase esta disponible de manera gratuita en la web. Generalmente ocupamos:
-- Anaconda Python 3.x (3.8 o superior), el cual puede ser descargado gratuitamente desde [https://www.anaconda.com/products/individual]. 
-- Visual Studio Code, el cual puede ser descargado gratuitamente desde [https://code.visualstudio.com/].
 
+- Python 3, el cual puede ser descargado desde [https://www.python.org/].
+- Visual Studio Code, el cual puede ser descargado gratuitamente desde [https://code.visualstudio.com/].
+- Notebooks de Google Colab [https://colab.research.google.com/].
 
 # Videos de las clases
 [Volver al Índice](#índice)
 
 # Calificaciones
 [Volver al Índice](#índice)
-
-- Calificaciones de [Primera Unidad]({{ BASE_PATH}}/pages/stuff/u12_prgbas.pdf)
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
