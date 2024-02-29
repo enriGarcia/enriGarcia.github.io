@@ -6,6 +6,7 @@ description: Página de la asignatura de Programación Básica.
 > La asignatura esta orientada a estudiantes con poca o ninguna experiencia en programación, aportando al estudiante la capacidad de desarrollar un pensamiento lógico y la identificación de cómo la computación puede usarse para resolver problemas, estableciendo confianza en el estudiante para que escriba pequeños scripts que le permitan completar objetivos prácticos. En la clase se utiliza el lenguaje de programación Python 3.9.
 
 # Índice
+- [Índice](#índice)
 - [Exámenes](#exámenes)
 - [Lista de ejercicios](#lista-de-ejercicios)
 - [Instalación del software](#instalación-del-software)
@@ -109,11 +110,13 @@ description: Página de la asignatura de Programación Básica.
 # Instalación del software
 [Volver al Índice](#índice)
 
+Usar el tutorial de instalación del software para la asignatura de Programación Básica [disponible aquí](https://enriquegarcia.xyz/pages/instructions/installPython).
+
 Cada paquetería de software que usamos en la clase esta disponible de manera gratuita en la web. Generalmente ocupamos:
 
-- Python 3, el cual puede ser descargado desde [https://www.python.org/].
-- Visual Studio Code, el cual puede ser descargado gratuitamente desde [https://code.visualstudio.com/].
-- Notebooks de Google Colab [https://colab.research.google.com/].
+- Python 3, el cual puede ser descargado desde (https://www.python.org/).
+- Visual Studio Code, el cual puede ser descargado gratuitamente desde (https://code.visualstudio.com/).
+- Notebooks de Google Colab (https://colab.research.google.com/).
 
 # Videos de las clases
 [Volver al Índice](#índice)
