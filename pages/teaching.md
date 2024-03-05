@@ -24,6 +24,10 @@ description: Asignaturas actuales
 
 [Programación básica](https://enriquegarcia.xyz/pages/teaching/progBas)
 
+[Análisis de circuitos eléctricos](https://enriquegarcia.xyz/pages/teaching/circElec)
+
+[Visualización y control de procesos](https://enriquegarcia.xyz/pages/teaching/visCtrl)
+
 ### <a name="2023-2"></a>Cursos 2023-2
 
 [Cálculo diferencial](https://enriquegarcia.xyz/pages/teaching/calcDif)

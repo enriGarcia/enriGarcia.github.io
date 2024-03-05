@@ -6,6 +6,7 @@ description: Listado de prácticas
 > Esta asignatura aporta al perfil del Ingeniero Mecatrónico la capacidad de integrar sistemas de visualización y control de variables de proceso, para mejorar la operación de procesos automáticos y la adquisición de datos aplicando técnicas de Inteligencia Artificial mediante el desarrollo y programación de modelos matemáticos, estadísticos y de simulación a la solución de problemas complejos de control automático, robótica, toma de decisiones, clasificación y minería de datos.
 
 # Índice
+- [Índice](#índice)
 - [Exámenes](#exámenes)
 - [Lista de ejercicios](#lista-de-ejercicios)
 - [Instalación del software](#instalación-del-software)
@@ -45,11 +46,10 @@ Descarga la [Versión de 32-bit](https://drive.google.com/file/d/1bqZlgeSik-SnEJ
 # Videos de las clases
 [Volver al Índice](#índice)
 
+1. Instalación del software, [observe el video](https://drive.google.com/file/d/1jS1a9J0m_M3F-k_-flL2l4ZjJ05LFI8U/view) para saber cómo instalar el software.
+
 # Calificaciones
 [Volver al Índice](#índice)
-
-- Calificaciones de [Primera Unidad]({{ BASE_PATH}}/pages/stuff/u1_vsctrl.pdf)
-
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
