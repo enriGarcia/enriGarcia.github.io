@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Acerca de
-description: Enrique García es Profesor en el Tecnológico de Estudios Superiores de Huixquilucan.
 ---
 
 <div class="container">
@@ -25,13 +24,14 @@ description: Enrique García es Profesor en el Tecnológico de Estudios Superior
 Planeación de trayectorias para robots manipuladores:
 - Perfil geométrico con evasión de obstáculos
 - Pefil de velocidad quíntico estacionario
-- Simulación en ROS
+- Simulación en ROS2.
 
 ### Intereses de investigación
 -  Aprendizaje automático (regresión lineal, regresión logística, vecinos K-cercanos, árboles de decisión, máquinas de vectores de soporte, redes neuronales artificiales de propagación hacia atrás)
 
 ### Intereses técnicos
-- Python (Numpy, Scipy, Scikit-learn, TensorFlow)
+- ROS 2
+- Python
 - LabVIEW
 
 ### Educación
@@ -40,9 +40,6 @@ Planeación de trayectorias para robots manipuladores:
 ### Otros
 - Investigador Nacional Nivel 1.
 - Miembro de la IEEE Robotics and Automation Society.  
-- Miembro de la IEEE Computational Intelligence Society.
 - Reconocimiento PRODEP.
-
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
 ---

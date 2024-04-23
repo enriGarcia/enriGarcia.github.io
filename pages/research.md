@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Investigación
-description: Investigaciones de Enrique Garcia-Trinidad
 ---
 
 - [Custom URDF manipulator model](https://enriquegarcia.xyz/pages/research/manip_tutorial)

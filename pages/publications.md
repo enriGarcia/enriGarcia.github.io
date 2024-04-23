@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Publicaciones
-description: Enrique Garcia-Trinidad publications
 ---
 
 <div class="navbar">
