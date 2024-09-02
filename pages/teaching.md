@@ -7,6 +7,7 @@ description: Asignaturas actuales
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
+            <li><a href="#2024-2">Cursos 2024-2</a></li>
             <li><a href="#2024-1">Cursos 2024-1</a></li>
             <li><a href="#2023-2">Cursos 2023-2</a></li>
             <li><a href="#2023-1">Cursos 2023-1</a></li>
@@ -17,6 +18,14 @@ description: Asignaturas actuales
         </ul>
     </div>
 </div>
+
+### <a name="2024-2"></a>Cursos 2024-2
+
+[Cálculo integral](https://enriquegarcia.xyz/pages/teaching/calcInt)
+
+[Programación avanzada](https://enriquegarcia.xyz/pages/teaching/progAv)
+
+[Métodos numéricos](https://enriquegarcia.xyz/pages/teaching/metnum)
 
 ### <a name="2024-1"></a>Cursos 2024-1
 
