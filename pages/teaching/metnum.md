@@ -19,9 +19,15 @@ description: Página de la asignatura de Métodos Numéricos.
 # Lista de ejercicios
 [Volver al Índice](#índice)
 
-|Tema              |Ejercicio       |Solución interactiva|
-|------------------|:--------------:|-------------------:|
-|Sentencias básicas|[Ejercicio 1    ]({{ BASE_PATH}}/pages/assignments/progbas_ex_001.pdf)|[Solución](https://codehs.com/sandbox/enrigarcia/ex-001/)|
+|Tema              |Ejercicio       |
+|------------------|:--------------:|
+|Aritmética en base 2           |[Ejercicio 1    ]({{ BASE_PATH}}/pages/assignments/metnum_ex_01.pdf)|
+|Aritmética en base 2           |[Ejercicio 2    ]({{ BASE_PATH}}/pages/assignments/metnum_ex_02.pdf)|
+|Aritmética en base 2           |[Ejercicio 3    ]({{ BASE_PATH}}/pages/assignments/metnum_ex_03.pdf)|
+|Introducción a Python          |[Ejercicio 4    ]({{ BASE_PATH}}/pages/assignments/metnum_ex_04.pdf)|
+|Introducción a Python          |[Ejercicio 5    ]({{ BASE_PATH}}/pages/assignments/metnum_ex_05.pdf)|
+|Introducción a Python          |[Ejercicio 6    ]({{ BASE_PATH}}/pages/assignments/metnum_ex_06.pdf)|
+|Métodos para encontrar raíces  |[Ejercicio 7    ]({{ BASE_PATH}}/pages/assignments/metnum_ex_07.pdf)|
 
 # Instalación del software
 [Volver al Índice](#índice)
@@ -31,8 +37,11 @@ Usar el tutorial de instalación del software para la asignatura de Métodos Num
 Cada paquetería de software que usamos en la clase esta disponible de manera gratuita en la web. Generalmente ocupamos:
 
 - Python 3, el cual puede ser descargado desde [https://www.python.org/](https://www.python.org/).
+
 - Visual Studio Code, el cual puede ser descargado gratuitamente desde [https://code.visualstudio.com/](https://code.visualstudio.com/).
+
 - Notebooks de Google Colab [https://colab.research.google.com/](https://colab.research.google.com/).
+
 - JupyterLab [https://jupyter.org/install](https://jupyter.org/install)
 
 # Videos de las clases
