@@ -8,21 +8,25 @@ vimeoId2: 763841789
 > El estudiante resolverá problemas de cálculo integral a través de las herramientas y métodos de integración, sucesiones y series para contribuir a la solución de situaciones de ingeniería.
 
 # Índice
+- [Índice](#índice)
 - [Lista de prácticas](#lista-de-prácticas)
-- [Instalación del software](#instalación-del-software)
+- [Uso de Sympy para la entrega de prácticas](#uso-de-sympy-para-la-entrega-de-prácticas)
 - [Videos de las clases](#videos-de-las-clases)
-- [Calificaciones](#calificaciones)
+- [Calificaciones por parcial](#calificaciones-por-parcial)
 
 
 # Lista de prácticas
 [Volver al Índice](#índice)
 
-|Tema                         |Ejercicio       |
-|-----------------------------|:--------------:|
-|Funciones                    |[Ejercicio 1 ]({{ BASE_PATH}}/pages/assignments/calcInt_ex_01.pdf)|
-|Límites                      |[Ejercicio 2 ]({{ BASE_PATH}}/pages/assignments/calcInt_ex_02.pdf)|
-|Derivadas                    |[Ejercicio 3 ]({{ BASE_PATH}}/pages/assignments/calcInt_ex_03.pdf)|
-|Integrales                   |[Ejercicio 4 ]({{ BASE_PATH}}/pages/assignments/calcInt_ex_04.pdf)|
+|Tema                                                    |Ejercicio       |
+|--------------------------------------------------------|:--------------:|
+|Funciones                                               |[Ejercicio 1 ]({{ BASE_PATH}}/pages/assignments/calcint_ex_01.pdf)|
+|Derivadas de funciones                                  |[Ejercicio 2 ]({{ BASE_PATH}}/pages/assignments/calcint_ex_02.pdf)|
+|La derivada desde un punto de vista geométrico          |[Ejercicio 3 ]({{ BASE_PATH}}/pages/assignments/calcint_ex_03.pdf)|
+|Derivadas de funciones logarítmicas                     |[Ejercicio 4 ]({{ BASE_PATH}}/pages/assignments/calcint_ex_04.pdf)|
+|Derivadas de funciones trigonométricas                  |[Ejercicio 5 ]({{ BASE_PATH}}/pages/assignments/calcint_ex_05.pdf)|
+|Integrales directas                                     |[Ejercicio 6 ]({{ BASE_PATH}}/pages/assignments/calcint_ex_06.pdf)|
+|Integrales por el método de sustitución                 |[Ejercicio 7 ]({{ BASE_PATH}}/pages/assignments/calcint_ex_07.pdf)|
 
 # Uso de Sympy para la entrega de prácticas
 [Volver al Índice](#índice)
