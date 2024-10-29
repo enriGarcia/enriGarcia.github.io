@@ -18,15 +18,16 @@ vimeoId2: 763841789
 # Lista de prácticas
 [Volver al Índice](#índice)
 
-|Tema                                                    |Ejercicio       |
-|--------------------------------------------------------|:--------------:|
-|Funciones                                               |[Ejercicio 1 ]({{ BASE_PATH}}/pages/assignments/calcint_ex_01.pdf)|
-|Derivadas de funciones                                  |[Ejercicio 2 ]({{ BASE_PATH}}/pages/assignments/calcint_ex_02.pdf)|
-|La derivada desde un punto de vista geométrico          |[Ejercicio 3 ]({{ BASE_PATH}}/pages/assignments/calcint_ex_03.pdf)|
-|Derivadas de funciones logarítmicas                     |[Ejercicio 4 ]({{ BASE_PATH}}/pages/assignments/calcint_ex_04.pdf)|
-|Derivadas de funciones trigonométricas                  |[Ejercicio 5 ]({{ BASE_PATH}}/pages/assignments/calcint_ex_05.pdf)|
-|Integrales directas                                     |[Ejercicio 6 ]({{ BASE_PATH}}/pages/assignments/calcint_ex_06.pdf)|
-|Integrales por el método de sustitución                 |[Ejercicio 7 ]({{ BASE_PATH}}/pages/assignments/calcint_ex_07.pdf)|
+|Tema                                                    |Ejercicio      |Notebook |
+|:-------------------------------------------------------|:--------------|:--------|
+|Funciones                                               |[Ejercicio 1 ]({{ BASE_PATH}}/pages/assignments/calcint_ex_01.pdf)|[descarga aquí](https://nbviewer.org/urls/enriquegarcia.xyz/pages/stuff/hw_01_calcDif.ipynb)|
+|Derivadas de funciones                                  |[Ejercicio 2 ]({{ BASE_PATH}}/pages/assignments/calcint_ex_02.pdf)|[descarga aquí](https://nbviewer.org/urls/enriquegarcia.xyz/pages/stuff/hw_02_calcDif.ipynb)|
+|La derivada desde un punto de vista geométrico          |[Ejercicio 3 ]({{ BASE_PATH}}/pages/assignments/calcint_ex_03.pdf)|[descarga aquí](https://nbviewer.org/urls/enriquegarcia.xyz/pages/stuff/hw_03_calcDif.ipynb)|
+|Derivadas de funciones logarítmicas                     |[Ejercicio 4 ]({{ BASE_PATH}}/pages/assignments/calcint_ex_04.pdf)|[descarga aquí](https://nbviewer.org/urls/enriquegarcia.xyz/pages/stuff/hw_04_calcDif.ipynb)|
+|Derivadas de funciones trigonométricas                  |[Ejercicio 5 ]({{ BASE_PATH}}/pages/assignments/calcint_ex_05.pdf)|[descarga aquí](https://nbviewer.org/urls/enriquegarcia.xyz/pages/stuff/hw_05_calcDif.ipynb)|
+|Integrales directas                                     |[Ejercicio 6 ]({{ BASE_PATH}}/pages/assignments/calcint_ex_06.pdf)|[descarga aquí](https://nbviewer.org/urls/enriquegarcia.xyz/pages/stuff/hw_06_calcDif.ipynb)|
+|Integrales por el método de sustitución                 |[Ejercicio 7 ]({{ BASE_PATH}}/pages/assignments/calcint_ex_07.pdf)|[descarga aquí](https://nbviewer.org/urls/enriquegarcia.xyz/pages/stuff/hw_07_calcDif.ipynb)|
+
 
 # Uso de Sympy para la entrega de prácticas
 [Volver al Índice](#índice)
