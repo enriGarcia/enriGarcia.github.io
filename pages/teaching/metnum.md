@@ -28,7 +28,8 @@ description: Página de la asignatura de Métodos Numéricos.
 |Introducción a Python          |[Ejercicio 5    ]({{ BASE_PATH}}/pages/assignments/metnum_ex_05.pdf)|
 |Introducción a Python          |[Ejercicio 6    ]({{ BASE_PATH}}/pages/assignments/metnum_ex_06.pdf)|
 |Métodos para encontrar raíces  |[Ejercicio 7    ]({{ BASE_PATH}}/pages/assignments/metnum_ex_07.pdf)|
-|Métodos de bisección           |[Ejercicio 8    ]({{ BASE_PATH}}/pages/assignments/metnum_ex_08.pdf)|
+|Método de bisección            |[Ejercicio 8    ]({{ BASE_PATH}}/pages/assignments/metnum_ex_08.pdf)|
+|Método de Regula Falsi         |[Ejercicio 9    ]({{ BASE_PATH}}/pages/assignments/metnum_ex_09.pdf)|
 
 # Instalación del software
 [Volver al Índice](#índice)
