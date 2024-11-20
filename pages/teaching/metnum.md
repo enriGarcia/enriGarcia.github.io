@@ -31,6 +31,7 @@ description: Página de la asignatura de Métodos Numéricos.
 |Método de bisección            |[Ejercicio 8    ]({{ BASE_PATH}}/pages/assignments/metnum_ex_08.pdf)|
 |Método de Regula Falsi         |[Ejercicio 9    ]({{ BASE_PATH}}/pages/assignments/metnum_ex_09.pdf)|
 |Método de Newton               |[Ejercicio 10   ]({{ BASE_PATH}}/pages/assignments/metnum_ex_10.pdf)|
+|Método de la secante           |[Ejercicio 11   ]({{ BASE_PATH}}/pages/assignments/metnum_ex_11.pdf)|
 
 # Instalación del software
 [Volver al Índice](#índice)
