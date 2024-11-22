@@ -27,6 +27,7 @@ vimeoId2: 763841789
 |Derivadas de funciones trigonométricas                  |[Ejercicio 5             ]({{ BASE_PATH}}/pages/assignments/calcint_ex_05.pdf)|[Descarga aquí](https://nbviewer.org/urls/enriquegarcia.xyz/pages/stuff/hw_05_calcDif.ipynb)|
 |Integrales directas                                     |[Ejercicio 6             ]({{ BASE_PATH}}/pages/assignments/calcint_ex_06.pdf)|[Descarga aquí](https://nbviewer.org/urls/enriquegarcia.xyz/pages/stuff/hw_06_calcDif.ipynb)|
 |Integrales por el método de sustitución                 |[Ejercicio 7             ]({{ BASE_PATH}}/pages/assignments/calcint_ex_07.pdf)|[Descarga aquí](https://nbviewer.org/urls/enriquegarcia.xyz/pages/stuff/hw_07_calcDif.ipynb)|
+|La integración como suma                                |[Ejercicio 8             ]({{ BASE_PATH}}/pages/assignments/calcint_ex_08.pdf)|[Descarga aquí](https://nbviewer.org/urls/enriquegarcia.xyz/pages/stuff/hw_08_calcInt.ipynb)|
 
 
 # Uso de Sympy para la entrega de prácticas
