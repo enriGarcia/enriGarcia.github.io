@@ -32,6 +32,10 @@ description: Página de la asignatura de Métodos Numéricos.
 |Método de Regula Falsi         |[Ejercicio 9    ]({{ BASE_PATH}}/pages/assignments/metnum_ex_09.pdf)|
 |Método de Newton               |[Ejercicio 10   ]({{ BASE_PATH}}/pages/assignments/metnum_ex_10.pdf)|
 |Método de la secante           |[Ejercicio 11   ]({{ BASE_PATH}}/pages/assignments/metnum_ex_11.pdf)|
+|Sistemas de ecuaciones         |[Ejercicio 12   ]({{ BASE_PATH}}/pages/assignments/metnum_ex_12.pdf)|
+|Sistemas de ecuaciones         |[Ejercicio 13   ]({{ BASE_PATH}}/pages/assignments/metnum_ex_13.pdf)|
+|Matriz inversa                 |[Ejercicio 14   ]({{ BASE_PATH}}/pages/assignments/metnum_ex_14.pdf)|
+|Matriz inversa                 |[Ejercicio 15   ]({{ BASE_PATH}}/pages/assignments/metnum_ex_15.pdf)|
 
 # Instalación del software
 [Volver al Índice](#índice)
