@@ -23,6 +23,7 @@ description: Listado de prácticas
 |Determinantes                |[Ejercicio 3 ]({{ BASE_PATH}}/pages/assignments/matIng_ex_03.pdf)|
 |Matriz Inversa               |[Ejercicio 4 ]({{ BASE_PATH}}/pages/assignments/matIng_ex_04.pdf)|
 |Funciones de varias variables|[Ejercicio 5 ]({{ BASE_PATH}}/pages/assignments/matIng_ex_05.pdf)|
+|Derivadas parciales          |[Ejercicio 6 ]({{ BASE_PATH}}/pages/assignments/matIng_ex_06.pdf)|
 
 # Instalación del software
 [Volver al Índice](#índice)

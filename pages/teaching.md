@@ -7,6 +7,7 @@ description: Asignaturas actuales
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
+            <li><a href="#2025-1">Cursos 2025-1</a></li>
             <li><a href="#2024-2">Cursos 2024-2</a></li>
             <li><a href="#2024-1">Cursos 2024-1</a></li>
             <li><a href="#2023-2">Cursos 2023-2</a></li>
@@ -18,6 +19,16 @@ description: Asignaturas actuales
         </ul>
     </div>
 </div>
+
+### <a name="2025-1"></a>Cursos 2025-1
+
+[Matemáticas para ingeniería 1](https://enriquegarcia.xyz/pages/teaching/matIng1)
+
+[Programación básica](https://enriquegarcia.xyz/pages/teaching/progBas)
+
+[Análisis de circuitos eléctricos](https://enriquegarcia.xyz/pages/teaching/circElec)
+
+[Fundamentos de termodinámica](https://enriquegarcia.xyz/pages/teaching/termo)
 
 ### <a name="2024-2"></a>Cursos 2024-2
 
