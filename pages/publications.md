@@ -126,62 +126,68 @@ title: Publicaciones
 
 ## <a name="thesis"></a>Tesis dirigidas
 
-#### <u>Diseño y construcción de una plataforma de robots móviles de configuración (2,0) para tareas cooperativas</u>
-*Autora: Sánchez Rodríguez Laura*
+#### <u>(2025) Manual de uso del microcontrolador STM32</u>
+*Autor: Gomora de Jesús Ricardo*
 
-#### <u>Diseño de dos configuraciones de péndulos invertidos</u>
-*Autor: Villa Rosas Kevin Uriel*
-
-#### <u>Interconexión de energía alternativa con módulos fotovoltaícos para el ahorro de energía eléctrica</u>
-*Autor: Hernández Barajas Jose Antonio*
-
-#### <u>Construcción de un módulo didáctico para el análisis de señales analógicas con PLC</u>
-*Autor: García Téllez Jonathan*
-
-#### <u>El reballing (rework) como solución a fallas de encendido y apagado Xbox One</u>
-*Autor: Miranda García Pedro*
-
-#### <u>Automatización de un sistema de semáforos usando LabVIEW</u>
-*Autor: Chavez Palacios Adrián David*
-
-#### <u>Diseño de un servomecanismo</u>
-*Autores: Luz Martínez Félix Eduardo, Monroy Landero Osvaldo*
-
-#### <u>Detección de distancias con instrumentación virtual</u>
-*Autores: Joaquín Gómez Gustavo, Soto Mora José Maria*
-
-#### <u>Diseño de un control de temperatura para líquidos</u>
-*Autores: González Trejo José Fernando, Santos Macario Eduardo*
-
-#### <u>Control de un motor de CD</u>
-*Autora: Lorenzo del Angel Marisol*
-
-#### <u>Validación por simulación gráfica de la cinemática de un robot manipulador ABB-IRB 140</u>
-*Autor: García Castro David Jesús*
-
-#### <u>Control no lineal de una suspensión activa, de un vehículo</u>
-*Autor: García Delgadillo Aaron Abraham*
-
-#### <u>Diseño de un controlador para un motor de corriente directa basado en STM32</u>
-*Autor: López Arroyo Leopoldo*
-
-#### <u>Selección e impresión de un robot manipulador de código abierto</u>
-*Autor: Delgadillo Rico Ivan Guiuseppe*
-
-#### <u>Control de temperatura y humedad para terrario usando microcontroladores AVR</u>
-*Autora: Martínez Almaraz Carolina*
-
-#### <u>Control de robot móvil de 3 grados de libertad con realimentación de posición usando visión por computador</u>
-*Autor: Martínez Ruíz José Ricardo*
-
-#### <u>Clasificación de comandos gestuales para robots manipuladores</u>
-*Autor: Mújica Quiroz Luis Cuauhtémoc*
-
-#### <u>Instrumentación de un robot manipulador de seis grados de libertad</u>
-*Autor: Gutierrez Vázquez Jovani*
-
-#### <u>Diseño y construcción de un robot cartesiano de código abierto</u>
+#### <u>(2025) Diseño y construcción de un robot cartesiano de código abierto</u>
 *Autor: Acosta Avila Jese Manuel*
 
-#### <u>Manual de uso del microcontrolador STM32</u>
-*Autor: Gomora de Jesús Ricardo*
+#### <u>(2025) Instrumentación de un robot manipulador de seis grados de libertad</u>
+*Autor: Gutierrez Vázquez Jovani*
+
+#### <u>(2025) Clasificación de comandos gestuales para robots manipuladores</u>
+*Autor: Mújica Quiroz Luis Cuauhtémoc*
+
+#### <u>(2025) Control de robot móvil de 3 grados de libertad con realimentación de posición usando visión por computador</u>
+*Autor: Martínez Ruíz José Ricardo*
+
+#### <u>(2024) Control de temperatura y humedad para terrario usando microcontroladores AVR</u>
+*Autora: Martínez Almaraz Carolina*
+
+#### <u>(2024) Selección e impresión de un robot manipulador de código abierto</u>
+*Autor: Delgadillo Rico Ivan Guiuseppe*
+
+#### <u>(2024) Diseño de un controlador para un motor de corriente directa basado en STM32</u>
+*Autor: López Arroyo Leopoldo*
+
+#### <u>(2024) Simulador de un robot AS/RS</u>
+*Autor: Hernández Sánchez Rosendo*
+
+#### <u>(2023) Diseño e implementación de una plataforma de control basada en aprendizaje híbrido</u>
+*Autor: Ordoñez Moreno Juan Carlos*
+
+#### <u>(2023) Control no lineal de una suspensión activa, de un vehículo</u>
+*Autor: García Delgadillo Aaron Abraham*
+
+#### <u>(2023) Validación por simulación gráfica de la cinemática de un robot manipulador ABB-IRB 140</u>
+*Autor: García Castro David Jesús*
+
+#### <u>(2023) Control de un motor de CD</u>
+*Autora: Lorenzo del Angel Marisol*
+
+#### <u>(2023) Diseño de un control de temperatura para líquidos</u>
+*Autores: González Trejo José Fernando, Santos Macario Eduardo*
+
+#### <u>(2023) Detección de distancias con instrumentación virtual</u>
+*Autores: Joaquín Gómez Gustavo, Soto Mora José Maria*
+
+#### <u>(2023) Diseño de un servomecanismo</u>
+*Autores: Luz Martínez Félix Eduardo, Monroy Landero Osvaldo*
+
+#### <u>(2023) Automatización de un sistema de semáforos usando LabVIEW</u>
+*Autor: Chavez Palacios Adrián David*
+
+#### <u>(2021) El reballing (rework) como solución a fallas de encendido y apagado Xbox One</u>
+*Autor: Miranda García Pedro*
+
+#### <u>(2021) Construcción de un módulo didáctico para el análisis de señales analógicas con PLC</u>
+*Autor: García Téllez Jonathan*
+
+#### <u>(2021) Interconexión de energía alternativa con módulos fotovoltaícos para el ahorro de energía eléctrica</u>
+*Autor: Hernández Barajas Jose Antonio*
+
+#### <u>(2020) Diseño de dos configuraciones de péndulos invertidos</u>
+*Autor: Villa Rosas Kevin Uriel*
+
+#### <u>(2020) Diseño y construcción de una plataforma de robots móviles de configuración (2,0) para tareas cooperativas</u>
+*Autora: Sánchez Rodríguez Laura*
