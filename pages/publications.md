@@ -14,6 +14,10 @@ title: Publicaciones
 
 ## <a name="papers"></a>Artículos publicados
 
+#### <u>(2026) Solución asintótica de un rompeolas tipo wec usando batimetría variable</u>
+*En este trabajo, se ha llevado a cabo un análisis asintótico, hasta el segundo orden en una expansión asintótica regular de la interacción de ondas largas lineales con un rompeolas flotante impermeable de superficies onduladas. Primero, el oleaje interactúa con una pendiente constante del fondo marino y posteriormente impacta al rompeolas ondulado. Las superficies onduladas están descritas por perfiles sinusoidales. Se analizan los efectos de tres parámetros geométricos diferentes sobre los coeficientes de reflexión: la amplitud de las superficies onduladas, la longitud y el ancho de la estructura sumergida y la posición de la misma. Las ecuaciones de gobierno se expresan en forma adimensional. La solución asintótica obtenida se comparó con las soluciones teóricas reportadas en la literatura especializada.*
+[Presiona aquí para la última versión del artículo](https://doi.org/10.29057/icbi.v13i26.15404)
+
 #### <u>(2025) Implementación de un gripper robótico: estudio cinemático y proceso de fabricación aditiva</u>
 *Este artículo presenta la implementación de un gripper robótico, desde su diseño conceptual y análisis cinemático hasta su fabricación y ensamblaje mediante manufactura aditiva. Se detalla el modelado del gripper como un mecanismo de cuatro barras, su simulación numérica en Python y la validación en SolidWorks Motion. Un aspecto central es la demostración de que la impresión 3D de código abierto, utilizando filamento PLA en una impresora Creality Ender 5-Plus, ofrece una solución viable y de bajo costo. Esto permite superar las barreras económicas y logísticas que enfrentan los investigadores en países emergentes para el desarrollo robótico. El éxito del ensamblaje valida la solidez del diseño, promoviendo la innovación y la autosuficiencia tecnológica en el campo de la robótica.*
 [Presiona aquí para la última versión del artículo](https://doi.org/10.29057/aactm.v12i12.15321)
