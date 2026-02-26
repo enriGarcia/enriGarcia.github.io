@@ -6,6 +6,7 @@ description: Listado de prácticas
 > Esta asignatura aporta al perfil del Ingeniero Mecatrónico la capacidad para analizar, simular y construir circuitos eléctricos de corriente directa y alterna, para su uso posterior en sistemas eléctricos, electrónicos y de control en procesos industriales.
 
 # Índice
+- [Índice](#índice)
 - [Lista de prácticas](#lista-de-prácticas)
 - [Instalación del software](#instalación-del-software)
 - [Videos de las clases](#videos-de-las-clases)
@@ -38,8 +39,6 @@ description: Listado de prácticas
 
 # Calificaciones
 [Volver al Índice](#índice)
-
-- Calificaciones de [Primera Unidad]({{ BASE_PATH}}/pages/stuff/u1_cirele.pdf)
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
