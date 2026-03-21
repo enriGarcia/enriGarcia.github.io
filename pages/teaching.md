@@ -8,6 +8,7 @@ description: Asignaturas actuales
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#2026-1">Cursos 2026-1</a></li>
+            <li><a href="#2025-2">Cursos 2025-2</a></li>
             <li><a href="#2025-1">Cursos 2025-1</a></li>
             <li><a href="#2024-2">Cursos 2024-2</a></li>
             <li><a href="#2024-1">Cursos 2024-1</a></li>
@@ -28,6 +29,12 @@ description: Asignaturas actuales
 [Análisis de circuitos eléctricos](https://enriquegarcia.xyz/pages/teaching/circElec)
 
 [Inteligencia artificial embebida](https://enriquegarcia.xyz/pages/teaching/intartemb)
+
+### <a name="2025-2"></a>Cursos 2025-2
+
+[Administración de Redes](https://enriquegarcia.xyz/pages/teaching/admonred)
+
+[Hacking ético](https://enriquegarcia.xyz/pages/teaching/hacketico)
 
 ### <a name="2025-1"></a>Cursos 2025-1
 
