@@ -32,19 +32,27 @@ description: Asignaturas actuales
 
 ### <a name="2025-2"></a>Cursos 2025-2
 
+[Dibujo asistido por computadora](https://enriquegarcia.xyz/pages/teaching/cad)
+
+[Programación avanzada](https://enriquegarcia.xyz/pages/teaching/progAv)
+
+[Métodos numéricos](https://enriquegarcia.xyz/pages/teaching/metnum)
+
+[Electrónica analógica](https://enriquegarcia.xyz/pages/teaching/elecAna)
+
 [Administración de Redes](https://enriquegarcia.xyz/pages/teaching/admonred)
 
 [Hacking ético](https://enriquegarcia.xyz/pages/teaching/hacketico)
 
 ### <a name="2025-1"></a>Cursos 2025-1
 
-[Matemáticas para ingeniería 1](https://enriquegarcia.xyz/pages/teaching/matIng1)
-
 [Programación básica](https://enriquegarcia.xyz/pages/teaching/progBas)
 
 [Análisis de circuitos eléctricos](https://enriquegarcia.xyz/pages/teaching/circElec)
 
 [Fundamentos de termodinámica](https://enriquegarcia.xyz/pages/teaching/termo)
+
+[Matemáticas para ingeniería 1](https://enriquegarcia.xyz/pages/teaching/matIng1)
 
 ### <a name="2024-2"></a>Cursos 2024-2
 
