@@ -7,7 +7,7 @@ que ejecuta StandardFirmata, utilizando la biblioteca pyFirmata.
 
 import sys
 import time
-import pyfirmata
+import pyfirmata2 as pyfirmata
 
 class ArduinoConnection:
     """
@@ -75,7 +75,10 @@ if __name__ == '__main__':
     with ArduinoConnection() as board:
         print("¡Conexión de prueba establecida con éxito!")
         try:
-            print("Nombre del Firmware:", board.get_firmware_name())
+            # pyFirmata guarda el nombre del firmware en 'board.firmware'
+            # y la versión en 'board.firmware_version' (en formato de tupla, ej. (2, 5))
+            version_str = f"{board.firmware_version[0]}.{board.firmware_version[1]}"
+            print(f"Firmware detectado: {board.firmware} (Versión v{version_str})")
         except Exception as e:
-            print("No se pudieron obtener los detalles del firmware (asegúrate de que StandardFirmata esté subido):", e)
+            print("No se pudieron obtener los detalles del firmware:", e)
         print("Saliendo del bloque de prueba...")
