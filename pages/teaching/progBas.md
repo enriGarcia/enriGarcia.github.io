@@ -108,6 +108,7 @@ description: Página de la asignatura de Programación Básica.
 |Funciones         |[Ejercicio 85   ]({{ BASE_PATH}}/pages/assignments/progbas_ex_085.pdf)|[Solución](https://codehs.com/sandbox/enrigarcia/ex-085/)|
 |Python + Arduino  |[Plantilla base ]({{ BASE_PATH}}/pages/assignments/firmata_base.py   )|                                                         |
 |Python + Arduino  |[pyFirmata 01   ]({{ BASE_PATH}}/pages/assignments/progbas_ar_001.pdf)|                                                         |
+|Python + Arduino  |[pyFirmata 02   ]({{ BASE_PATH}}/pages/assignments/progbas_ar_002.pdf)|                                                         |
 
 # Instalación del software
 [Volver al Índice](#índice)
