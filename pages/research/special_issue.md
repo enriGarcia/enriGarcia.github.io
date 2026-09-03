@@ -19,7 +19,6 @@ This Special Issue welcomes submissions of exceptional quality, including origin
 - Real-time path planning;
 - Swarm robotics and distributed optimization
 
-The deadline for manuscript submission is November 30, 2025. For submission guidelines and more information, please visit [https://www.mdpi.com/journal/mathematics/special_issues/Optim_Path_Plan_Robot](https://www.mdpi.com/journal/mathematics/special_issues/Optim_Path_Plan_Robot)
+The deadline for manuscript submission is febraury 25, 2027. For submission guidelines and more information, please visit [https://www.mdpi.com/journal/mathematics/special_issues/Optim_Path_Plan_Robot](https://www.mdpi.com/journal/mathematics/special_issues/Optim_Path_Plan_Robot)
 
 ![]({{BASE_PATH}}/assets/figures/Optim_Path_Plan_Robot_horizontal.png)
-

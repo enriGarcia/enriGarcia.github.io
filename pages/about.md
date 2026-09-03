@@ -9,7 +9,7 @@ title: Acerca de
     <div class="row-fluid">
         <div class="span5">
             Enrique García<br/>
-            Email: enrique@enriquegarcia.xyz<br/>
+            Email: enrique.g.t@huixquilucan.tecnm.mx<br/>
         </div>
 
         <div class="span2">
